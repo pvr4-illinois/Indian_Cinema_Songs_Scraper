@@ -119,16 +119,20 @@ def is_duration_string(s):
 
 
 def get_infobox_music_director(soup):
-    """Extract the music director from the album/film infobox if present."""
-    infobox = soup.find("table", class_=lambda c: c and "infobox" in " ".join(c))
+    """Extract the music director from the film/album infobox if present."""
+    infobox = soup.find("table", class_="infobox")
     if not infobox:
         return ""
     for row in infobox.find_all("tr"):
-        cells = row.find_all(["td", "th"])
-        if len(cells) >= 2:
-            label = cells[0].get_text(strip=True).lower()
-            if any(kw in label for kw in ["music", "composer", "score"]):
-                return cells[1].get_text(" ", strip=True)
+        label_cell = row.find("th")
+        value_cell = row.find("td")
+        if not label_cell or not value_cell:
+            continue
+        label = label_cell.get_text(" ", strip=True).lower()
+        if any(kw in label for kw in ["music", "composer", "score"]):
+            value = value_cell.get_text(", ", strip=True)
+            # Strip trailing footnote brackets like [1][2]
+            return re.sub(r"\[\d+\]", "", value).strip(" ,")
     return ""
 
 
