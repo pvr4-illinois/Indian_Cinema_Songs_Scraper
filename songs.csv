@@ -1,7 +1,7 @@
 ﻿film_name,year,song_name,singer(s),music_director,lyricist,duration
-Drishyam 2,2022,Sahi Galat,King,,,2:49
-Drishyam 2,2022,Saath Hum Rahein,Jubin Nautiyal,,,4:02
-Drishyam 2,2022,Drishyam 2 - Title Track,"Vijay Prakash , Usha Uthup",,,3:20
+Drishyam 2,2022,Sahi Galat,King,Devi Sri Prasad,,2:49
+Drishyam 2,2022,Saath Hum Rahein,Jubin Nautiyal,Devi Sri Prasad,,4:02
+Drishyam 2,2022,Drishyam 2 - Title Track,"Vijay Prakash , Usha Uthup",Devi Sri Prasad,,3:20
 The Kashmir Files,2022,Theme From The Kashmir Files,Instrumental,Rohit Sharma,Instrumental,4:40
 The Kashmir Files,2022,Al Jihad,Instrumental,Rohit Sharma,Instrumental,0:55
 The Kashmir Files,2022,Brahma Dutt's Theme,Instrumental,Rohit Sharma,Instrumental,4:13
@@ -15,22 +15,22 @@ The Kashmir Files,2022,Roshey,Noor Mohammad,Traditional,Traditional,8:25
 The Kashmir Files,2022,Krishna's Speech,Noor Mohammad,Rohit Sharma,Traditional,1:27
 The Kashmir Files,2022,Death Of Sharda,Instrumental,Rohit Sharma,Instrumental,1:24
 The Kashmir Files,2022,The Kashmir Files Title Theme,Instrumental,Rohit Sharma,Instrumental,1:06
-Bhool Bhulaiyaa 2,2022,Bhool Bhulaiyaa 2 (Title Track) (co-composed by Tanishk Bagchi ),"Neeraj Shridhar , Mellow D, Bob",,"Mandy Gill, Sameer",3:31
-Bhool Bhulaiyaa 2,2022,Hum Nashe Mein Toh Nahin,"Arijit Singh , Tulsi Kumar",,Amitabh Bhattacharya,3:58
-Bhool Bhulaiyaa 2,2022,De Taali,"Yo Yo Honey Singh, Armaan Malik , Shashwat Singh",,"Amitabh Bhattacharya, Yo Yo Honey Singh",3:30
-Bhool Bhulaiyaa 2,2022,Mere Dholna  (Arijit Version),Arijit Singh,,Sameer,6:04
-Bhool Bhulaiyaa 2,2022,Ami Je Tomar Tandav,Arijit Singh,,Sameer,2:23
-Bhool Bhulaiyaa 2,2022,Ami Je Tomar Tandav (Film Version),Tushar Joshi,,Sameer,2:24
-Bhool Bhulaiyaa 2,2022,Ami Je Tomar (Kiara's Scare),"Shreya Ghoshal , Arijit Singh",,Sameer,1:38
-Bhool Bhulaiyaa 2,2022,Mere Dholna (The Sisters),Shreya Ghoshal,,Sameer,2:25
-Bhool Bhulaiyaa 2,2022,Mere Dholna (Revisited),Shreya Ghoshal,,"Saaveri Verma, Sameer",2:32
-Bhool Bhulaiyaa 2,2022,Ami Je Tomar ( Kartik X Vidya ),"Arijit Singh, Shreya Ghoshal",,Sameer,6:12
-Gangubai Kathiawadi,2022,Meri Jaan,Neeti Mohan,,Kumaar,3:58
-Gangubai Kathiawadi,2022,Dholida,"Janhvi Shrimankar, Shail Hada",,"Kumaar, Bhojak Ashok Anjam",2:59
-Gangubai Kathiawadi,2022,Jab Saiyaan,Shreya Ghoshal,,A. M. Turaz,4:07
-Gangubai Kathiawadi,2022,Shikayat,Archana Gore,,A. M. Turaz,4:09
-Gangubai Kathiawadi,2022,Muskurahat,Arijit Singh,,A. M. Turaz,4:37
-Gangubai Kathiawadi,2022,Jhume Re Gori,"Archana Gore, Tarannum Jain, Dipti Rege, Aditi Pradhudesai",,Kumaar,2:50
+Bhool Bhulaiyaa 2,2022,Bhool Bhulaiyaa 2 (Title Track) (co-composed by Tanishk Bagchi ),"Neeraj Shridhar , Mellow D, Bob","Songs:, Pritam, Tanishk Bagchi, Background score:, Sandeep Shirodkar","Mandy Gill, Sameer",3:31
+Bhool Bhulaiyaa 2,2022,Hum Nashe Mein Toh Nahin,"Arijit Singh , Tulsi Kumar","Songs:, Pritam, Tanishk Bagchi, Background score:, Sandeep Shirodkar",Amitabh Bhattacharya,3:58
+Bhool Bhulaiyaa 2,2022,De Taali,"Yo Yo Honey Singh, Armaan Malik , Shashwat Singh","Songs:, Pritam, Tanishk Bagchi, Background score:, Sandeep Shirodkar","Amitabh Bhattacharya, Yo Yo Honey Singh",3:30
+Bhool Bhulaiyaa 2,2022,Mere Dholna  (Arijit Version),Arijit Singh,"Songs:, Pritam, Tanishk Bagchi, Background score:, Sandeep Shirodkar",Sameer,6:04
+Bhool Bhulaiyaa 2,2022,Ami Je Tomar Tandav,Arijit Singh,"Songs:, Pritam, Tanishk Bagchi, Background score:, Sandeep Shirodkar",Sameer,2:23
+Bhool Bhulaiyaa 2,2022,Ami Je Tomar Tandav (Film Version),Tushar Joshi,"Songs:, Pritam, Tanishk Bagchi, Background score:, Sandeep Shirodkar",Sameer,2:24
+Bhool Bhulaiyaa 2,2022,Ami Je Tomar (Kiara's Scare),"Shreya Ghoshal , Arijit Singh","Songs:, Pritam, Tanishk Bagchi, Background score:, Sandeep Shirodkar",Sameer,1:38
+Bhool Bhulaiyaa 2,2022,Mere Dholna (The Sisters),Shreya Ghoshal,"Songs:, Pritam, Tanishk Bagchi, Background score:, Sandeep Shirodkar",Sameer,2:25
+Bhool Bhulaiyaa 2,2022,Mere Dholna (Revisited),Shreya Ghoshal,"Songs:, Pritam, Tanishk Bagchi, Background score:, Sandeep Shirodkar","Saaveri Verma, Sameer",2:32
+Bhool Bhulaiyaa 2,2022,Ami Je Tomar ( Kartik X Vidya ),"Arijit Singh, Shreya Ghoshal","Songs:, Pritam, Tanishk Bagchi, Background score:, Sandeep Shirodkar",Sameer,6:12
+Gangubai Kathiawadi,2022,Meri Jaan,Neeti Mohan,"Songs:, Sanjay Leela Bhansali, Score:, Sanchit Balhara and Ankit Balhara",Kumaar,3:58
+Gangubai Kathiawadi,2022,Dholida,"Janhvi Shrimankar, Shail Hada","Songs:, Sanjay Leela Bhansali, Score:, Sanchit Balhara and Ankit Balhara","Kumaar, Bhojak Ashok Anjam",2:59
+Gangubai Kathiawadi,2022,Jab Saiyaan,Shreya Ghoshal,"Songs:, Sanjay Leela Bhansali, Score:, Sanchit Balhara and Ankit Balhara",A. M. Turaz,4:07
+Gangubai Kathiawadi,2022,Shikayat,Archana Gore,"Songs:, Sanjay Leela Bhansali, Score:, Sanchit Balhara and Ankit Balhara",A. M. Turaz,4:09
+Gangubai Kathiawadi,2022,Muskurahat,Arijit Singh,"Songs:, Sanjay Leela Bhansali, Score:, Sanchit Balhara and Ankit Balhara",A. M. Turaz,4:37
+Gangubai Kathiawadi,2022,Jhume Re Gori,"Archana Gore, Tarannum Jain, Dipti Rege, Aditi Pradhudesai","Songs:, Sanjay Leela Bhansali, Score:, Sanchit Balhara and Ankit Balhara",Kumaar,2:50
 Jugjugg Jeeyo,2022,Jugjugg Jeeyo,Tanishk Bagchi,Tanishk Bagchi,Tanishk Bagchi,2:22
 Jugjugg Jeeyo,2022,The Punjaabban Song,"Gippy Grewal , Zahrah S Khan , Tanishk Bagchi , Romy & Abrar-ul-Haq","Tanishk Bagchi, Abrar-Ul-Haq","Tanishk Bagchi, Abrar-ul-Haq",3:19
 Jugjugg Jeeyo,2022,Rangisari,"Kanishk Seth, Kavita Seth","Kanishk Seth , Kavita Seth",Traditional,3:43
@@ -49,8 +49,8 @@ Ram Setu,2022,Whatte Fun,"Vishal Dadlani , Neeti Mohan , Arivu",Ajay-Atul,Irshad
 Ram Setu,2022,Jai Shree Ram,Vikram Montrose,Vikram Montrose,Shekhar Astitwa,3:59
 Ram Setu,2022,Bahut Din Beete,"Ved Sharma, Raja Hasan",Ved Sharma,Manoj Muntashir,3:55
 Ram Setu,2022,Om Namah Shivaay,"Krishna Das , Priceless",Dr. Zeus,Traditional,18:07
-36 Farmhouse,2022,Mind Your Business,Hariharan,,Subhash Ghai,3:44
-36 Farmhouse,2022,Mohabbat,Sonu Nigam,,Subhash Ghai,4:07
+36 Farmhouse,2022,Mind Your Business,Hariharan,Subhash Ghai,Subhash Ghai,3:44
+36 Farmhouse,2022,Mohabbat,Sonu Nigam,Subhash Ghai,Subhash Ghai,4:07
 Hai Tujhe Salaam India,2022,Khamosiyan,Darshan Raval,Sagar Bhatia,Sagar Bhatia Dharmendra Ehsas,3:35
 Hai Tujhe Salaam India,2022,Vande Matram,Kailash Kher,Yug Bhusal,Yug Bhusal,2:50
 Hai Tujhe Salaam India,2022,Beauty Pe Sity,Divya Kumar (singer) Shivani Bhatt,Sagar Bhatia,Sagar Bhatia,3:59
@@ -59,12 +59,12 @@ Looop Lapeta,2022,Beqaraar (Duet),"Ronkini Gupta , Raghav Kaushik",Santanu Ghata
 Looop Lapeta,2022,Nirvana,Harshal Vyas,"Sidhant Mago, Mayank Mehra",Sidhant Mago,3:04
 Looop Lapeta,2022,Tera Mera,Sharvi Yadav,"Rahul Pais, Nariman Khambata",Siddhant Kaushal,3:20
 Looop Lapeta,2022,Beqaraar (Female Version),Ronkini Gupta,Santanu Ghatak,Santanu Ghatak,3:55
-Gehraiyaan,2022,Doobey,"Lothika Jha, Savera Mehta",,Kausar Munir,3:39
-Gehraiyaan,2022,Gehraiyaan,"Lothika Jha, Savera Mehta, Kabeer Kathpalia",,Ankur Tewari,2:59
-Gehraiyaan,2022,Beqaaboo,"Savera Mehta, Shalmali Kholgade , Kabeer Kathpalia",,Kausar Munir,3:07
-Gehraiyaan,2022,Gehraiyaan (Reprise),"Mohit Chauhan , Lothika Jha",,Ankur Tewari,3:00
-Gehraiyaan,2022,Doobey (Sickflip Remix),"Lothika Jha, Sarvesh Shrivastava (Sickflip)",,Kausar Munir,3:17
-Gehraiyaan,2022,Gehraiyaan (Skeletron Remix),"Lothika Jha, Skeletron",,Ankur Tewari,2:24
+Gehraiyaan,2022,Doobey,"Lothika Jha, Savera Mehta","Kabeer Kathpalia (OAFF), Savera Mehta",Kausar Munir,3:39
+Gehraiyaan,2022,Gehraiyaan,"Lothika Jha, Savera Mehta, Kabeer Kathpalia","Kabeer Kathpalia (OAFF), Savera Mehta",Ankur Tewari,2:59
+Gehraiyaan,2022,Beqaaboo,"Savera Mehta, Shalmali Kholgade , Kabeer Kathpalia","Kabeer Kathpalia (OAFF), Savera Mehta",Kausar Munir,3:07
+Gehraiyaan,2022,Gehraiyaan (Reprise),"Mohit Chauhan , Lothika Jha","Kabeer Kathpalia (OAFF), Savera Mehta",Ankur Tewari,3:00
+Gehraiyaan,2022,Doobey (Sickflip Remix),"Lothika Jha, Sarvesh Shrivastava (Sickflip)","Kabeer Kathpalia (OAFF), Savera Mehta",Kausar Munir,3:17
+Gehraiyaan,2022,Gehraiyaan (Skeletron Remix),"Lothika Jha, Skeletron","Kabeer Kathpalia (OAFF), Savera Mehta",Ankur Tewari,2:24
 Badhaai Do,2022,Badhaai Do - Title Track,"Nakash Aziz , Rajnigandha Shekhawat , Raja Sagoo [ 17 ]",Tanishk Bagchi,Vayu,2:53
 Badhaai Do,2022,Atak Gaya,"Arijit Singh , Rupali Moghe",Amit Trivedi,Varun Grover,3:19
 Badhaai Do,2022,Atak Gaya (Acoustic),Amit Trivedi,Amit Trivedi,Varun Grover,3:10
@@ -78,130 +78,130 @@ Badhaai Do,2022,Maange Manzooriyan (Female Version),Maalavika Manoj,Khamosh Shah
 Badhaai Do,2022,Maange Manzooriyan (Male Version),Abhay Jodhpurkar,Khamosh Shah,Azeem Shirazi,4:18
 Badhaai Do,2022,Atak Gaya (Abhijeet Version),"Abhijeet Srivastava, Rupali Moghe",Amit Trivedi,Varun Grover,3:19
 Badhaai Do,2022,Atak Gaya (Palak Muchhal Version),Palak Muchhal,Amit Trivedi,Varun Grover,2:50
-A Thursday,2022,Naina theme song,,,,1:50
-A Thursday,2022,The first call,,,,1:37
-A Thursday,2022,The Playschool,,,,1:17
-A Thursday,2022,The Quite,,,,0:43
-A Thursday,2022,Demand,,,,1:06
-A Thursday,2022,Wash your hands,,,,0:58
-A Thursday,2022,A for Akash,,,,2:06
-A Thursday,2022,Alvarez and Khan,,,,0:53
-A Thursday,2022,Back off Javed,,,,2:10
-A Thursday,2022,Naina's Mind,,,,1:03
-A Thursday,2022,Phir se bolna,,,,0:56
-A Thursday,2022,Maya Rajguru,,,,1:38
-A Thursday,2022,Rock a Bye Baby (Sung by Deelraz Bunshah),,,,3:47
-A Thursday,2022,The interview,,,,3:30
-A Thursday,2022,Birthday Cake,,,,2:07
-A Thursday,2022,Case,,,,2:04
-A Thursday,2022,A Thursday,,,,6:28
-A Thursday,2022,Let go,,,,2:34
-A Thursday,2022,Do you know what it feels like,,,,3:23
-A Thursday,2022,Stand off,,,,1:31
-A Thursday,2022,The Last shot,,,,1:10
+A Thursday,2022,Naina theme song,,"Rooshin Dalal, Kaizad Gherda",,1:50
+A Thursday,2022,The first call,,"Rooshin Dalal, Kaizad Gherda",,1:37
+A Thursday,2022,The Playschool,,"Rooshin Dalal, Kaizad Gherda",,1:17
+A Thursday,2022,The Quite,,"Rooshin Dalal, Kaizad Gherda",,0:43
+A Thursday,2022,Demand,,"Rooshin Dalal, Kaizad Gherda",,1:06
+A Thursday,2022,Wash your hands,,"Rooshin Dalal, Kaizad Gherda",,0:58
+A Thursday,2022,A for Akash,,"Rooshin Dalal, Kaizad Gherda",,2:06
+A Thursday,2022,Alvarez and Khan,,"Rooshin Dalal, Kaizad Gherda",,0:53
+A Thursday,2022,Back off Javed,,"Rooshin Dalal, Kaizad Gherda",,2:10
+A Thursday,2022,Naina's Mind,,"Rooshin Dalal, Kaizad Gherda",,1:03
+A Thursday,2022,Phir se bolna,,"Rooshin Dalal, Kaizad Gherda",,0:56
+A Thursday,2022,Maya Rajguru,,"Rooshin Dalal, Kaizad Gherda",,1:38
+A Thursday,2022,Rock a Bye Baby (Sung by Deelraz Bunshah),,"Rooshin Dalal, Kaizad Gherda",,3:47
+A Thursday,2022,The interview,,"Rooshin Dalal, Kaizad Gherda",,3:30
+A Thursday,2022,Birthday Cake,,"Rooshin Dalal, Kaizad Gherda",,2:07
+A Thursday,2022,Case,,"Rooshin Dalal, Kaizad Gherda",,2:04
+A Thursday,2022,A Thursday,,"Rooshin Dalal, Kaizad Gherda",,6:28
+A Thursday,2022,Let go,,"Rooshin Dalal, Kaizad Gherda",,2:34
+A Thursday,2022,Do you know what it feels like,,"Rooshin Dalal, Kaizad Gherda",,3:23
+A Thursday,2022,Stand off,,"Rooshin Dalal, Kaizad Gherda",,1:31
+A Thursday,2022,The Last shot,,"Rooshin Dalal, Kaizad Gherda",,1:10
 Love Hostel,2022,Chali Aa,Raj Burman,Jeet Gannguli,Manoj Yadav,3:14
 Love Hostel,2022,Bas Mein Nahi,Clinton Cerejo,"Clinton Cerejo , Bianca Gomes",Siddhant Kaushal,2:35
 Love Hostel,2022,Dagar's Theme,Instrumental,Clinton Cerejo,Instrumental,2:35
 Love Hostel,2022,Bas Mein Nahi (Reprise),Bianca Gomes,"Clinton Cerejo, Bianca Gomes",Siddhant Kaushal,3:03
 Love Hostel,2022,Dirty Dagar,Instrumental,Clinton Cerejo,Instrumental,1:43
-Jhund,2022,Aaya Ye Jhund Hai (Lyrics by Ajay–Atul),"Ajay–Atul , Jay, Mallhar, Sarja",,,3:18
-Jhund,2022,Lafda Zhala,Ajay Gogavale,,,3:55
-Jhund,2022,Laat Maar,"Sid Sriram , Sourabh Abhyankar",,,3:45
-Jhund,2022,Baadal Se Dosti,Sid Sriram,,,4:00
-Toolsidas Junior,2022,Udd Chala,"Sachet Tandon , Ujjwal Kashyap",,,2:34
+Jhund,2022,Aaya Ye Jhund Hai (Lyrics by Ajay–Atul),"Ajay–Atul , Jay, Mallhar, Sarja","Songs:, Ajay–Atul, Score:, Saket Kanetkar",,3:18
+Jhund,2022,Lafda Zhala,Ajay Gogavale,"Songs:, Ajay–Atul, Score:, Saket Kanetkar",,3:55
+Jhund,2022,Laat Maar,"Sid Sriram , Sourabh Abhyankar","Songs:, Ajay–Atul, Score:, Saket Kanetkar",,3:45
+Jhund,2022,Baadal Se Dosti,Sid Sriram,"Songs:, Ajay–Atul, Score:, Saket Kanetkar",,4:00
+Toolsidas Junior,2022,Udd Chala,"Sachet Tandon , Ujjwal Kashyap",Daniel B. George,,2:34
 Bachchhan Paandey,2022,Maar Khayegaa,"Farhad Bhiwandiwala, Vikram Montrose",Vikram Montrose,"Farhad Bhiwandiwala, Vikram Montrose , Azeem Dayani",3:18
 Bachchhan Paandey,2022,Meri Jaan Meri Jaan,B Praak,B Praak,Jaani,4:08
 Bachchhan Paandey,2022,Saare Bolo Bewafa,B Praak,Jaani,Jaani,3:46
 Bachchhan Paandey,2022,Heer Ranjhana,"Arijit Singh , Shreya Ghoshal",Amaal Mallik,Kumaar,4:00
 Bachchhan Paandey,2022,Whistle Theme,Instrumental,Roy,Instrumental,2:43
-Jalsa,2022,Thehar,Shilpa Rao,,Sandeep Gaur,3:40
-Jalsa,2022,Thehar (Male Version),Gaurav Chatterji,,Sandeep Gaur,3:38
-Jalsa,2022,Raat (Music by Salvage Audio Collective),Vishwesh Krishnamoorthy,,Charan,2:13
-Jalsa,2022,Jalsa - Theme,Instrumental,,-,1:48
-Jalsa,2022,Maya's Guilt,Instrumental,,-,2:40
-Jalsa,2022,Ruksana's Pain,Instrumental,,-,1:00
-Jalsa,2022,The Drive,Instrumental,,-,1:40
-Sharmaji Namkeen,2022,Ye Luthrey,Jasbir Jassi,,,3:26
-Sharmaji Namkeen,2022,Laal Tamatar,"Kanika Kapoor , Sneha Khanwalkar",,,3:34
-Sharmaji Namkeen,2022,Boom Boom,"Kailash Kher , Raja Mushtaq",,,3:06
-Sharmaji Namkeen,2022,Aaram Karo,Gopal Datt,,,3:01
+Jalsa,2022,Thehar,Shilpa Rao,"Gaurav Chatterji, Salvage Audio Collective",Sandeep Gaur,3:40
+Jalsa,2022,Thehar (Male Version),Gaurav Chatterji,"Gaurav Chatterji, Salvage Audio Collective",Sandeep Gaur,3:38
+Jalsa,2022,Raat (Music by Salvage Audio Collective),Vishwesh Krishnamoorthy,"Gaurav Chatterji, Salvage Audio Collective",Charan,2:13
+Jalsa,2022,Jalsa - Theme,Instrumental,"Gaurav Chatterji, Salvage Audio Collective",-,1:48
+Jalsa,2022,Maya's Guilt,Instrumental,"Gaurav Chatterji, Salvage Audio Collective",-,2:40
+Jalsa,2022,Ruksana's Pain,Instrumental,"Gaurav Chatterji, Salvage Audio Collective",-,1:00
+Jalsa,2022,The Drive,Instrumental,"Gaurav Chatterji, Salvage Audio Collective",-,1:40
+Sharmaji Namkeen,2022,Ye Luthrey,Jasbir Jassi,Sneha Khanwalkar,,3:26
+Sharmaji Namkeen,2022,Laal Tamatar,"Kanika Kapoor , Sneha Khanwalkar",Sneha Khanwalkar,,3:34
+Sharmaji Namkeen,2022,Boom Boom,"Kailash Kher , Raja Mushtaq",Sneha Khanwalkar,,3:06
+Sharmaji Namkeen,2022,Aaram Karo,Gopal Datt,Sneha Khanwalkar,,3:01
 Kaun Pravin Tambe?,2022,Khamakha,"Vivek Hariharan , Anurag Saikia",Anurag Saikia,Shakeel Azmi,2:46
-Dasvi,2022,Macha Macha Re,"Mika Singh , Divya Kumar , Mellow D, Sachin–Jigar",,Amitabh Bhattacharya,3:16
-Dasvi,2022,Ghani Trip,"Mellow D, Kirti Sagathia, Sachin–Jigar",,Ashish Pandit,2:55
-Dasvi,2022,Thaan Liya,"Sukhwinder Singh , Tanishkaa Sanghvi, Sachin–Jigar",,Ashish Pandit,4:31
-Dasvi,2022,Nakhralo,"Mame Khan , Sachin–Jigar",,Ashish Pandit,3:00
+Dasvi,2022,Macha Macha Re,"Mika Singh , Divya Kumar , Mellow D, Sachin–Jigar",Sachin–Jigar,Amitabh Bhattacharya,3:16
+Dasvi,2022,Ghani Trip,"Mellow D, Kirti Sagathia, Sachin–Jigar",Sachin–Jigar,Ashish Pandit,2:55
+Dasvi,2022,Thaan Liya,"Sukhwinder Singh , Tanishkaa Sanghvi, Sachin–Jigar",Sachin–Jigar,Ashish Pandit,4:31
+Dasvi,2022,Nakhralo,"Mame Khan , Sachin–Jigar",Sachin–Jigar,Ashish Pandit,3:00
 Hurdang,2022,Kya Yehi Pyaar Hai,Armaan Malik,"R. D. Burman (original), Amaal Mallik (recreated)",Rashmi Virag,5:35
 Hurdang,2022,Khwaab Khwaab,Sachet Tandon,Sachet–Parampara,Irshad Kamil,3:24
 Hurdang,2022,Halla Sheri,Sachet Tandon,Sachet–Parampara,Irshad Kamil,3:26
 Hurdang,2022,Padhai Likhai,Parampara Tandon,Sachet–Parampara,Irshad Kamil,2:00
-Jersey,2022,Mehram,Sachet Tandon,,,3:47
-Jersey,2022,Maiyya Mainu,Sachet Tandon,,,3:51
-Jersey,2022,Baliye Re,"Sachet Tandon, Stebin Ben , Paramapara Tandon , Mellow D",,,3:07
-Jersey,2022,Jind Meriye,Sachet Tandon,,,3:58
-Operation Romeo,2022,Abhi Abhi,Neeti Mohan,,,4:50
-Operation Romeo,2022,Tere Bin Jeena Kya,"Vishal Mishra , Rupali Jagga",,,4:27
-Operation Romeo,2022,Yeh Kyun Kiya,Vishal Mishra,,,3:00
-Runway 34,2022,Mitra Re,"Arijit Singh , Jasleen Royal",,,3:41
-Runway 34,2022,The Fall Song,Jasleen Royal,,,3:08
-Runway 34,2022,Jalaya Toh Nahin Na (Music by Yashraj Mukhate & lyrics by Akshay Shinde),"Yashraj Mukhate , Ajay Devgn",,,2:21
-Runway 34,2022,Mitra Re (Reprise),"Arijit Singh , Jasleen Royal",,,3:29
-Runway 34,2022,The Fall Song (English Version),Jasleen Royal,,,3:08
-Runway 34,2022,Mitra Re (Arijit Singh Version),Arijit Singh,,,3:42
-Heropanti 2,2022,Dafa Kar,"A.R. Rehman , Hiral Viradia",,,3:59
-Heropanti 2,2022,Jalwanuma,"Pooja Tiwari, Javed Ali",,,3:45
-Heropanti 2,2022,Miss Hairan,"Tiger Shroff , Nisa Shetty",,,3:34
-Heropanti 2,2022,Whistle Baja 2.0,"Mika Singh , Neeti Mohan",,,2:48
-Heropanti 2,2022,Rehnuma,"A.R. Rahman , Swagath Rathod, Faiz Mustafa",,,6:24
-Heropanti 2,2022,Mauka Parast,"Mayank Kapri, Thoughts For Now",,,3:23
-Mere Desh Ki Dharti,2022,Mere Desh Ki Dharti (Title Track),Sukhwinder Singh,,,3:23
-Mere Desh Ki Dharti,2022,Tip Top,"Supriyaa Pathak, Farhad Bhiwandiwala",,,2:23
-Mere Desh Ki Dharti,2022,Khudaya Re,Ali Aslam Shah,,,2:37
-Jayeshbhai Jordaar,2022,Firecracker,"Vishal Dadlani , Shekhar Ravjiani",,"Kumaar , Vayu",2:46
-Jayeshbhai Jordaar,2022,Dheere Dheere Seekh Jaaunga,"Shekhar Ravjiani, Priya Saraiya",,Jaideep Sahni,4:23
-Jayeshbhai Jordaar,2022,Jordaar,"Vishal Dadlani, Keerthi Sagathia",,Jaideep Sahni,2:34
-Jayeshbhai Jordaar,2022,Dil Ki Gali,"Katyayni, Shekhar Ravjiani",,Jaideep Sahni,2:59
-Jayeshbhai Jordaar,2022,Firecracker (English),"Vishal Dadlani, Shekhar Ravjiani",,"Vishal Dadlani, Kumaar, Vayu",3:24
-Jayeshbhai Jordaar,2022,"Nanki's Theme (Music by Sanchit Balhara , Ankit Balhara )",Jonita Gandhi,,,2:09
-Dhaakad,2022,She's On Fire,"Badshah , Nikhita Gandhi",,"Badshah , Hiten Kumar",2:45
-Dhaakad,2022,Namonishan,"Nikhita Gandhi , Shankar Mahadevan",,Amitabh Bhattacharya,4:20
-Dhaakad,2022,So Ja Re,"Sunidhi Chauhan , Hariharan",,Ishitta Arun,5:13
-Dhaakad,2022,Babul,Richa Sharma,,Traditional,3:43
-Dhaakad,2022,Barood,Sunidhi Chauhan,,Amitabh Bhattacharya,4:12
-Dhaakad,2022,Dhaakad Title Song,Vasundhara Vee,,Ishitta Arun,5:40
-Anek,2022,Voice of Anek,"Sunidhi Chauhan , Vivek Hariharan, Anurag Saikia",,Shakeel Azmi,3:48
-Anek,2022,Oh Ku Takum,"Imnanungsang Tzudir, Temsuwapang Aiee",,Jonathan Lemtur,2:23
-Anek,2022,Shaal Wunga,"Noor Mohammad Shah , Muntazir Faraz",,Basharat Peer,2:38
-Anek,2022,Oh Mama,"Neha Karode, Anurag Saikia",,Anurag Saikia,4:02
-Anek,2022,Rabbit (Cafe Song),Neha Karode,,Anurag Saikia,3:02
-Dehati Disco,2022,Aghora,Nakul Abhyankar,,,7:11
-Dehati Disco,2022,Dehati Disco Title Track,Divya Kumar,,,4:16
-Dehati Disco,2022,Matth Maila,Nakul Abhyankar,,,7:35
-Dehati Disco,2022,Gat Gat Gataa,Bhanu Pandit,,,4:59
-Dehati Disco,2022,Uparwale,Nakul Abhyankar,,,5:35
-Samrat Prithviraj,2022,Hari Har,Adarsh Shinde,,,4:14
-Samrat Prithviraj,2022,Hadd Kar De,"Neeti Mohan , Keerthi Sagathia",,,4:02
-Samrat Prithviraj,2022,Makhmali,"Arijit Singh , Shreya Ghoshal",,,4:04
-Samrat Prithviraj,2022,Yoddha,Sunidhi Chauhan,,,4:03
-Samrat Prithviraj,2022,Aigiri Nandini (Music by Alap Desai),"Alap Desai, Rahul Chitnis, Vivek Naik, Saurabh Wakhare, Raghav Dave, Mahavir Kubadia",,,2:54
-Samrat Prithviraj,2022,Prithviraj Theme,Instrumental,,,1:45
-Samrat Prithviraj,2022,Sanyogitas Theme,Manya Narang,,,1:58
-Major,2022,Hrudayama,Sid Sriram,,"Krishna Kanth, V.N.V. Ramesh Kumar",3:34
-Major,2022,Oh Isha,"Armaan Malik , Chinmayi",,Rajiv Bharadwaj,3:06
-Major,2022,Jana Gana Mana,Tojan Toby,,Rajiv Bharadwaj,4:04
-Major,2022,Kanna Kanna,K. S. Chithra,,Ramajogayya Sastry,3:42
+Jersey,2022,Mehram,Sachet Tandon,"Score:, Anirudh Ravichander, Songs:, Sachet–Parampara",,3:47
+Jersey,2022,Maiyya Mainu,Sachet Tandon,"Score:, Anirudh Ravichander, Songs:, Sachet–Parampara",,3:51
+Jersey,2022,Baliye Re,"Sachet Tandon, Stebin Ben , Paramapara Tandon , Mellow D","Score:, Anirudh Ravichander, Songs:, Sachet–Parampara",,3:07
+Jersey,2022,Jind Meriye,Sachet Tandon,"Score:, Anirudh Ravichander, Songs:, Sachet–Parampara",,3:58
+Operation Romeo,2022,Abhi Abhi,Neeti Mohan,M. M. Kreem,,4:50
+Operation Romeo,2022,Tere Bin Jeena Kya,"Vishal Mishra , Rupali Jagga",M. M. Kreem,,4:27
+Operation Romeo,2022,Yeh Kyun Kiya,Vishal Mishra,M. M. Kreem,,3:00
+Runway 34,2022,Mitra Re,"Arijit Singh , Jasleen Royal",Jasleen Royal,,3:41
+Runway 34,2022,The Fall Song,Jasleen Royal,Jasleen Royal,,3:08
+Runway 34,2022,Jalaya Toh Nahin Na (Music by Yashraj Mukhate & lyrics by Akshay Shinde),"Yashraj Mukhate , Ajay Devgn",Jasleen Royal,,2:21
+Runway 34,2022,Mitra Re (Reprise),"Arijit Singh , Jasleen Royal",Jasleen Royal,,3:29
+Runway 34,2022,The Fall Song (English Version),Jasleen Royal,Jasleen Royal,,3:08
+Runway 34,2022,Mitra Re (Arijit Singh Version),Arijit Singh,Jasleen Royal,,3:42
+Heropanti 2,2022,Dafa Kar,"A.R. Rehman , Hiral Viradia",A. R. Rahman,,3:59
+Heropanti 2,2022,Jalwanuma,"Pooja Tiwari, Javed Ali",A. R. Rahman,,3:45
+Heropanti 2,2022,Miss Hairan,"Tiger Shroff , Nisa Shetty",A. R. Rahman,,3:34
+Heropanti 2,2022,Whistle Baja 2.0,"Mika Singh , Neeti Mohan",A. R. Rahman,,2:48
+Heropanti 2,2022,Rehnuma,"A.R. Rahman , Swagath Rathod, Faiz Mustafa",A. R. Rahman,,6:24
+Heropanti 2,2022,Mauka Parast,"Mayank Kapri, Thoughts For Now",A. R. Rahman,,3:23
+Mere Desh Ki Dharti,2022,Mere Desh Ki Dharti (Title Track),Sukhwinder Singh,Vikram Montrose,,3:23
+Mere Desh Ki Dharti,2022,Tip Top,"Supriyaa Pathak, Farhad Bhiwandiwala",Vikram Montrose,,2:23
+Mere Desh Ki Dharti,2022,Khudaya Re,Ali Aslam Shah,Vikram Montrose,,2:37
+Jayeshbhai Jordaar,2022,Firecracker,"Vishal Dadlani , Shekhar Ravjiani","Score:, Sanchit Balhara and Ankit Balhara, Songs:, Vishal–Shekhar","Kumaar , Vayu",2:46
+Jayeshbhai Jordaar,2022,Dheere Dheere Seekh Jaaunga,"Shekhar Ravjiani, Priya Saraiya","Score:, Sanchit Balhara and Ankit Balhara, Songs:, Vishal–Shekhar",Jaideep Sahni,4:23
+Jayeshbhai Jordaar,2022,Jordaar,"Vishal Dadlani, Keerthi Sagathia","Score:, Sanchit Balhara and Ankit Balhara, Songs:, Vishal–Shekhar",Jaideep Sahni,2:34
+Jayeshbhai Jordaar,2022,Dil Ki Gali,"Katyayni, Shekhar Ravjiani","Score:, Sanchit Balhara and Ankit Balhara, Songs:, Vishal–Shekhar",Jaideep Sahni,2:59
+Jayeshbhai Jordaar,2022,Firecracker (English),"Vishal Dadlani, Shekhar Ravjiani","Score:, Sanchit Balhara and Ankit Balhara, Songs:, Vishal–Shekhar","Vishal Dadlani, Kumaar, Vayu",3:24
+Jayeshbhai Jordaar,2022,"Nanki's Theme (Music by Sanchit Balhara , Ankit Balhara )",Jonita Gandhi,"Score:, Sanchit Balhara and Ankit Balhara, Songs:, Vishal–Shekhar",,2:09
+Dhaakad,2022,She's On Fire,"Badshah , Nikhita Gandhi","Shankar–Ehsaan–Loy, Dhruv Ghanekar, Badshah, Hiten Kumar","Badshah , Hiten Kumar",2:45
+Dhaakad,2022,Namonishan,"Nikhita Gandhi , Shankar Mahadevan","Shankar–Ehsaan–Loy, Dhruv Ghanekar, Badshah, Hiten Kumar",Amitabh Bhattacharya,4:20
+Dhaakad,2022,So Ja Re,"Sunidhi Chauhan , Hariharan","Shankar–Ehsaan–Loy, Dhruv Ghanekar, Badshah, Hiten Kumar",Ishitta Arun,5:13
+Dhaakad,2022,Babul,Richa Sharma,"Shankar–Ehsaan–Loy, Dhruv Ghanekar, Badshah, Hiten Kumar",Traditional,3:43
+Dhaakad,2022,Barood,Sunidhi Chauhan,"Shankar–Ehsaan–Loy, Dhruv Ghanekar, Badshah, Hiten Kumar",Amitabh Bhattacharya,4:12
+Dhaakad,2022,Dhaakad Title Song,Vasundhara Vee,"Shankar–Ehsaan–Loy, Dhruv Ghanekar, Badshah, Hiten Kumar",Ishitta Arun,5:40
+Anek,2022,Voice of Anek,"Sunidhi Chauhan , Vivek Hariharan, Anurag Saikia","Songs:, Anurag Saikia, Background Score:, Mangesh Dhakde",Shakeel Azmi,3:48
+Anek,2022,Oh Ku Takum,"Imnanungsang Tzudir, Temsuwapang Aiee","Songs:, Anurag Saikia, Background Score:, Mangesh Dhakde",Jonathan Lemtur,2:23
+Anek,2022,Shaal Wunga,"Noor Mohammad Shah , Muntazir Faraz","Songs:, Anurag Saikia, Background Score:, Mangesh Dhakde",Basharat Peer,2:38
+Anek,2022,Oh Mama,"Neha Karode, Anurag Saikia","Songs:, Anurag Saikia, Background Score:, Mangesh Dhakde",Anurag Saikia,4:02
+Anek,2022,Rabbit (Cafe Song),Neha Karode,"Songs:, Anurag Saikia, Background Score:, Mangesh Dhakde",Anurag Saikia,3:02
+Dehati Disco,2022,Aghora,Nakul Abhyankar,Drums Shivamani,,7:11
+Dehati Disco,2022,Dehati Disco Title Track,Divya Kumar,Drums Shivamani,,4:16
+Dehati Disco,2022,Matth Maila,Nakul Abhyankar,Drums Shivamani,,7:35
+Dehati Disco,2022,Gat Gat Gataa,Bhanu Pandit,Drums Shivamani,,4:59
+Dehati Disco,2022,Uparwale,Nakul Abhyankar,Drums Shivamani,,5:35
+Samrat Prithviraj,2022,Hari Har,Adarsh Shinde,"Score:, Sanchit Balhara and Ankit Balhara, Songs:, Shankar–Ehsaan–Loy, Alap Desai",,4:14
+Samrat Prithviraj,2022,Hadd Kar De,"Neeti Mohan , Keerthi Sagathia","Score:, Sanchit Balhara and Ankit Balhara, Songs:, Shankar–Ehsaan–Loy, Alap Desai",,4:02
+Samrat Prithviraj,2022,Makhmali,"Arijit Singh , Shreya Ghoshal","Score:, Sanchit Balhara and Ankit Balhara, Songs:, Shankar–Ehsaan–Loy, Alap Desai",,4:04
+Samrat Prithviraj,2022,Yoddha,Sunidhi Chauhan,"Score:, Sanchit Balhara and Ankit Balhara, Songs:, Shankar–Ehsaan–Loy, Alap Desai",,4:03
+Samrat Prithviraj,2022,Aigiri Nandini (Music by Alap Desai),"Alap Desai, Rahul Chitnis, Vivek Naik, Saurabh Wakhare, Raghav Dave, Mahavir Kubadia","Score:, Sanchit Balhara and Ankit Balhara, Songs:, Shankar–Ehsaan–Loy, Alap Desai",,2:54
+Samrat Prithviraj,2022,Prithviraj Theme,Instrumental,"Score:, Sanchit Balhara and Ankit Balhara, Songs:, Shankar–Ehsaan–Loy, Alap Desai",,1:45
+Samrat Prithviraj,2022,Sanyogitas Theme,Manya Narang,"Score:, Sanchit Balhara and Ankit Balhara, Songs:, Shankar–Ehsaan–Loy, Alap Desai",,1:58
+Major,2022,Hrudayama,Sid Sriram,Sricharan Pakala,"Krishna Kanth, V.N.V. Ramesh Kumar",3:34
+Major,2022,Oh Isha,"Armaan Malik , Chinmayi",Sricharan Pakala,Rajiv Bharadwaj,3:06
+Major,2022,Jana Gana Mana,Tojan Toby,Sricharan Pakala,Rajiv Bharadwaj,4:04
+Major,2022,Kanna Kanna,K. S. Chithra,Sricharan Pakala,Ramajogayya Sastry,3:42
 Janhit Mein Jaari,2022,Parda Daari,"Javed Ali , Dhvani Bhanushali",Prini Siddhant Madhav,Sameer Anjaan,4:52
 Janhit Mein Jaari,2022,Udaa Gulaal Ishq Wala,"Amit Gupta , Dhvani Bhanushali",Amol - Abhishek,Abhishek Talented,3:58
 Janhit Mein Jaari,2022,Tenu Aunda Nahi,Prini Siddhant Madhav,Prini Siddhant Madhav,Kunwar Juneja,3:52
 Janhit Mein Jaari,2022,Janhit Mein Jaari - Title Track,"Raftaar , Nakash Aziz",Prini Siddhant Madhav,Raaj Shaandilyaa,3:01
 Janhit Mein Jaari,2022,Chali Re Bazaar,Asees Kaur,Sadhu Sushil Tiwari,"Niket Pandey, Sadhu Sushil Tiwari",5:44
 Janhit Mein Jaari,2022,Ishq Ho Jaane De,Tushar Joshi,Sadhu Sushil Tiwari,Rohit Sharma,5:02
-Ardh,2022,Ishq Ka Manjha,"Palak Muchhal , Armaan Malik",,Palak Muchhal,4:34
-Ardh,2022,Zindagi,Sonu Nigam,,Kunaal Vermaa,5:43
-Ardh,2022,Zindagi (Unplugged),Rekha Bhardwaj,,Kunaal Vermaa,6:31
-Ardh,2022,Soja Chanda Re,Rubina Dilaik,,Palash Muchhal,3:00
-Ardh,2022,Dum Ali,"Divya Kumar , Amit Mishra",,Palash Muchhal,3:33
-Ardh,2022,Ardh Theme,"Parry G, Palash Muchhal",,Parry G,2:43
-Ardh,2022,Peene Da Bahana,"Shree D, Kuwar Virk",,Kuwar Virk,2:43
+Ardh,2022,Ishq Ka Manjha,"Palak Muchhal , Armaan Malik",Palash Muchhal,Palak Muchhal,4:34
+Ardh,2022,Zindagi,Sonu Nigam,Palash Muchhal,Kunaal Vermaa,5:43
+Ardh,2022,Zindagi (Unplugged),Rekha Bhardwaj,Palash Muchhal,Kunaal Vermaa,6:31
+Ardh,2022,Soja Chanda Re,Rubina Dilaik,Palash Muchhal,Palash Muchhal,3:00
+Ardh,2022,Dum Ali,"Divya Kumar , Amit Mishra",Palash Muchhal,Palash Muchhal,3:33
+Ardh,2022,Ardh Theme,"Parry G, Palash Muchhal",Palash Muchhal,Parry G,2:43
+Ardh,2022,Peene Da Bahana,"Shree D, Kuwar Virk",Palash Muchhal,Kuwar Virk,2:43
 Nikamma,2022,Nikamma,"Dev Negi , Payal Dev , Deane Sequeira, Javed-Mohsin",Javed–Mohsin,"Danish Sabri, Sanjay Chhel",2:48
 Nikamma,2022,Tere Bin Kya,"Dev Negi, Shruti Rane",Gourov Dasgupta,Kumaar,3:20
 Nikamma,2022,Killer,"Mika Singh , Amaal Mallik",Amaal Mallik,Kumaar,4:06
@@ -222,52 +222,52 @@ Judaa Hoke Bhi,2022,Aye Mere Dil Bata,Ankit Tiwari,Harish Sagane,Shweta Bothra,5
 Judaa Hoke Bhi,2022,Andekhi,Sunidhi Chauhan,Puneet Dixit,Shweta Bothra,5:21
 Judaa Hoke Bhi,2022,Rootha Hoon,Mohit Chauhan,Puneet Dixit,Shweta Bothra,5:21
 Judaa Hoke Bhi,2022,Judaa Hoke Bhi,Stebin Ben,Puneet Dixit,Shweta Bothra,6:50
-Shabaash Mithu,2022,"Fateh (Music by Salvage Audio Collective, Charan)","Romy, Charan",,Charan,2:28
-Shabaash Mithu,2022,Hindustan Meri Jaan,"Kailash Kher , Ruchika",,Swanand Kirkire,4:02
-Shabaash Mithu,2022,Agaaz Hai Tu,Neha Kakkar,,Swanand Kirkire,4:12
-Shabaash Mithu,2022,Udd Gayi Re Muniya,Neeraj Arya,,Swanand Kirkire,3:57
-Shabaash Mithu,2022,Masti Takita Dhum,"Lagnajita , Anusha Mani",,Swanand Kirkire,3:14
-Shabaash Mithu,2022,Woh Galiyaan,"Monali Thakur , Shashwat Singh",,Kausar Munir,4:00
-Shabaash Mithu,2022,Agaaz Hai Tu,Yashita Sharma,,Swanand Kirkire,1:27
-Shabaash Mithu,2022,Hindustan Meri Jaan,"Amit Trivedi , Kailash Kher",,Swanand Kirkire,3:47
-Shabaash Mithu,2022,Hindustan Meri Jaan,"Amit Trivedi, Ruchika",,Swanand Kirkire,5:24
-Shabaash Mithu,2022,Woh Galiyaan,"Deepali Sathe, Shashwat Sing",,Kausar Munir,4:00
-Shamshera,2022,Ji Huzoor,"Aditya Narayan , Shadaab Faridi",,Mithoon,4:09
-Shamshera,2022,Fitoor,"Arijit Singh , Neeti Mohan , Sudeep Jaipurwale",,Karan Malhotra,5:08
-Shamshera,2022,Kaale Naina,"Shadaab Faridi , Neeti Mohan , Sudesh Bhosle",,"Mithoon, Traditional",5:24
-Shamshera,2022,Shamshera (Title Track),"Sukhwinder Singh , Abhishek Nailwal",,Mithoon,5:32
-Shamshera,2022,Hunkara,"Sukhwinder Singh, Richa Sharma , Mithoon",,Piyush Mishra,5:08
-Shamshera,2022,Parinda,"Sukhwinder Singh, Abhishek Nailwal",,Karan Malhotra,4:57
+Shabaash Mithu,2022,"Fateh (Music by Salvage Audio Collective, Charan)","Romy, Charan","Amit Trivedi, Salvage Audio Collective, Charan",Charan,2:28
+Shabaash Mithu,2022,Hindustan Meri Jaan,"Kailash Kher , Ruchika","Amit Trivedi, Salvage Audio Collective, Charan",Swanand Kirkire,4:02
+Shabaash Mithu,2022,Agaaz Hai Tu,Neha Kakkar,"Amit Trivedi, Salvage Audio Collective, Charan",Swanand Kirkire,4:12
+Shabaash Mithu,2022,Udd Gayi Re Muniya,Neeraj Arya,"Amit Trivedi, Salvage Audio Collective, Charan",Swanand Kirkire,3:57
+Shabaash Mithu,2022,Masti Takita Dhum,"Lagnajita , Anusha Mani","Amit Trivedi, Salvage Audio Collective, Charan",Swanand Kirkire,3:14
+Shabaash Mithu,2022,Woh Galiyaan,"Monali Thakur , Shashwat Singh","Amit Trivedi, Salvage Audio Collective, Charan",Kausar Munir,4:00
+Shabaash Mithu,2022,Agaaz Hai Tu,Yashita Sharma,"Amit Trivedi, Salvage Audio Collective, Charan",Swanand Kirkire,1:27
+Shabaash Mithu,2022,Hindustan Meri Jaan,"Amit Trivedi , Kailash Kher","Amit Trivedi, Salvage Audio Collective, Charan",Swanand Kirkire,3:47
+Shabaash Mithu,2022,Hindustan Meri Jaan,"Amit Trivedi, Ruchika","Amit Trivedi, Salvage Audio Collective, Charan",Swanand Kirkire,5:24
+Shabaash Mithu,2022,Woh Galiyaan,"Deepali Sathe, Shashwat Sing","Amit Trivedi, Salvage Audio Collective, Charan",Kausar Munir,4:00
+Shamshera,2022,Ji Huzoor,"Aditya Narayan , Shadaab Faridi",Mithoon,Mithoon,4:09
+Shamshera,2022,Fitoor,"Arijit Singh , Neeti Mohan , Sudeep Jaipurwale",Mithoon,Karan Malhotra,5:08
+Shamshera,2022,Kaale Naina,"Shadaab Faridi , Neeti Mohan , Sudesh Bhosle",Mithoon,"Mithoon, Traditional",5:24
+Shamshera,2022,Shamshera (Title Track),"Sukhwinder Singh , Abhishek Nailwal",Mithoon,Mithoon,5:32
+Shamshera,2022,Hunkara,"Sukhwinder Singh, Richa Sharma , Mithoon",Mithoon,Piyush Mishra,5:08
+Shamshera,2022,Parinda,"Sukhwinder Singh, Abhishek Nailwal",Mithoon,Karan Malhotra,4:57
 Ek Villain Returns,2022,Galliyan Returns,Ankit Tiwari,Ankit Tiwari,Manoj Muntashir,5:50
 Ek Villain Returns,2022,Dil,Raghav Chaitanya,Kaushik-Guddu,Kunaal Vermaa,5:09
 Ek Villain Returns,2022,Shaamat,"Ankit Tiwari , Tara Sutaria",Ankit Tiwari,Prince Dubey,5:34
 Ek Villain Returns,2022,Naa Tere Bin,Altamash Faridi,Tanishk Bagchi,Tanishk Bagchi,6:11
 Ek Villain Returns,2022,Dil (Shreya's Version),Shreya Ghoshal,Kaushik-Guddu,Kunaal Vermaa,5:10
 Ek Villain Returns,2022,Shaamat (Ankit Tiwari's Version),Ankit Tiwari,Ankit Tiwari,Prince Dubey,5:34
-Good Luck Jerry,2022,Mor Mor,"Deedar Kaur, Gurlej Akhtar, Vivek Hariharan, Parag Chhabra, Pinky Maidasani",,,2:59
-Good Luck Jerry,2022,Paracetamol,"Jubin Nautiyal , Parag Chhabra, Soom T, Shehnaz Akhtar, Sahil Akhtar",,,4:04
-Good Luck Jerry,2022,Jogan,"Romy, Rupali Jagga, Nikhita Gandhi , Parag Chhabra",,,4:13
-Good Luck Jerry,2022,Jhand Ba,"Madhubanti Bagchi, Parag Chhabra",,,3:41
-Good Luck Jerry,2022,Cutie Cutie,"Nakash Aziz , Parag Chhabra, Gary Misquitta, Rishikesh Karmerkar, Keshia Braganza, Suzanne D'Mello",,,2:56
-Good Luck Jerry,2022,Jhand Ba (Sad),"Madhubanti Bagchi, Parag Chhabra",,,1:36
-Darlings,2022,La Ilaaj,"Arijit Singh , Vishal Bhardwaj , Debarpito Saha",,,4:24
-Darlings,2022,Bhasad (Music and Lyrics by Mellow D),Mellow D,,,2:38
-Darlings,2022,Pleaj!,Mika Singh,,,3:21
-Raksha Bandhan,2022,Tere Saath Hoon Main,Nihal Tauro,,,5:45
-Raksha Bandhan,2022,Dhaagon Se Baandhaa,"Arijit Singh , Shreya Ghoshal",,,4:45
-Raksha Bandhan,2022,Kangan Ruby,Himesh Reshammiya,,,4:02
-Raksha Bandhan,2022,Done Kar Do,"Navraj Hans , Jyotica Tangri",,,3:48
-Raksha Bandhan,2022,Kangan Ruby (House Mix),"Himesh Reshammiya, Akasa Singh , Akshay The One",,,4:33
-Raksha Bandhan,2022,Raksha Bandhan,Shreya Ghoshal,,,4:43
-Raksha Bandhan,2022,Raksha Bandhan (Reprise),"Shreya Ghoshal, Stebin Ben",,,5:27
-Raksha Bandhan,2022,Bidaai,Romy,,,5:44
-Raksha Bandhan,2022,Bidaai (Reprise),"Nooran Sisters , Romy",,,5:44
-Raksha Bandhan,2022,Tu Bichhde Toh,Nihal Tauro,,,4:24
-Dobaaraa,2022,Waqt ke Jungle,Armaan Malik,,,3:14
-Dobaaraa,2022,Veham,Fotty Seven,,,3:20
-Dobaaraa,2022,Dariya Hai (Music by Shor Police),"Clinton Cerejo , Bianca Gomes",,,3:06
-Dobaaraa,2022,Pari,Neeti Mohan,,,4:20
-Dobaaraa,2022,Pari (Reprise),Gaurav Chatterji,,,3:30
+Good Luck Jerry,2022,Mor Mor,"Deedar Kaur, Gurlej Akhtar, Vivek Hariharan, Parag Chhabra, Pinky Maidasani","Score:, Aman Pant, Songs:, Parag Chhabra",,2:59
+Good Luck Jerry,2022,Paracetamol,"Jubin Nautiyal , Parag Chhabra, Soom T, Shehnaz Akhtar, Sahil Akhtar","Score:, Aman Pant, Songs:, Parag Chhabra",,4:04
+Good Luck Jerry,2022,Jogan,"Romy, Rupali Jagga, Nikhita Gandhi , Parag Chhabra","Score:, Aman Pant, Songs:, Parag Chhabra",,4:13
+Good Luck Jerry,2022,Jhand Ba,"Madhubanti Bagchi, Parag Chhabra","Score:, Aman Pant, Songs:, Parag Chhabra",,3:41
+Good Luck Jerry,2022,Cutie Cutie,"Nakash Aziz , Parag Chhabra, Gary Misquitta, Rishikesh Karmerkar, Keshia Braganza, Suzanne D'Mello","Score:, Aman Pant, Songs:, Parag Chhabra",,2:56
+Good Luck Jerry,2022,Jhand Ba (Sad),"Madhubanti Bagchi, Parag Chhabra","Score:, Aman Pant, Songs:, Parag Chhabra",,1:36
+Darlings,2022,La Ilaaj,"Arijit Singh , Vishal Bhardwaj , Debarpito Saha","Songs:, Vishal Bhardwaj, Mellow D, Ajay Lobo, Score:, Prashant Pillai",,4:24
+Darlings,2022,Bhasad (Music and Lyrics by Mellow D),Mellow D,"Songs:, Vishal Bhardwaj, Mellow D, Ajay Lobo, Score:, Prashant Pillai",,2:38
+Darlings,2022,Pleaj!,Mika Singh,"Songs:, Vishal Bhardwaj, Mellow D, Ajay Lobo, Score:, Prashant Pillai",,3:21
+Raksha Bandhan,2022,Tere Saath Hoon Main,Nihal Tauro,"Score:, Ishaan Chhabra, Songs:, Himesh Reshammiya",,5:45
+Raksha Bandhan,2022,Dhaagon Se Baandhaa,"Arijit Singh , Shreya Ghoshal","Score:, Ishaan Chhabra, Songs:, Himesh Reshammiya",,4:45
+Raksha Bandhan,2022,Kangan Ruby,Himesh Reshammiya,"Score:, Ishaan Chhabra, Songs:, Himesh Reshammiya",,4:02
+Raksha Bandhan,2022,Done Kar Do,"Navraj Hans , Jyotica Tangri","Score:, Ishaan Chhabra, Songs:, Himesh Reshammiya",,3:48
+Raksha Bandhan,2022,Kangan Ruby (House Mix),"Himesh Reshammiya, Akasa Singh , Akshay The One","Score:, Ishaan Chhabra, Songs:, Himesh Reshammiya",,4:33
+Raksha Bandhan,2022,Raksha Bandhan,Shreya Ghoshal,"Score:, Ishaan Chhabra, Songs:, Himesh Reshammiya",,4:43
+Raksha Bandhan,2022,Raksha Bandhan (Reprise),"Shreya Ghoshal, Stebin Ben","Score:, Ishaan Chhabra, Songs:, Himesh Reshammiya",,5:27
+Raksha Bandhan,2022,Bidaai,Romy,"Score:, Ishaan Chhabra, Songs:, Himesh Reshammiya",,5:44
+Raksha Bandhan,2022,Bidaai (Reprise),"Nooran Sisters , Romy","Score:, Ishaan Chhabra, Songs:, Himesh Reshammiya",,5:44
+Raksha Bandhan,2022,Tu Bichhde Toh,Nihal Tauro,"Score:, Ishaan Chhabra, Songs:, Himesh Reshammiya",,4:24
+Dobaaraa,2022,Waqt ke Jungle,Armaan Malik,"Gaurav Chatterji, Shor Police, Jakub Grzechowiak",,3:14
+Dobaaraa,2022,Veham,Fotty Seven,"Gaurav Chatterji, Shor Police, Jakub Grzechowiak",,3:20
+Dobaaraa,2022,Dariya Hai (Music by Shor Police),"Clinton Cerejo , Bianca Gomes","Gaurav Chatterji, Shor Police, Jakub Grzechowiak",,3:06
+Dobaaraa,2022,Pari,Neeti Mohan,"Gaurav Chatterji, Shor Police, Jakub Grzechowiak",,4:20
+Dobaaraa,2022,Pari (Reprise),Gaurav Chatterji,"Gaurav Chatterji, Shor Police, Jakub Grzechowiak",,3:30
 Liger,2022,The Liger Hunt Theme,Farhad Bhiwandiwala,Vikram Montrose,"Farhad Bhiwandiwala, Shekhar Astitwa, Vikram Montrose",1:31
 Liger,2022,Akdi Pakdi,"Dev Negi , Pawni Pandey , Lijo George","Lijo George-DJ Chetas, Sunil Kashyap","Mohsin Shaikh , Azeem Dayani",3:50
 Liger,2022,Waat Laga Denge,Vijay Deverakonda,Sunil Kashyap,Puri Jagannaadh,1:26
@@ -284,26 +284,26 @@ Cuttputlli,2022,Rabba,Sukhwinder Singh,Dr Zeus,Omar Malik,3:14
 Cuttputlli,2022,Tu Dis De,Hamid Ali Naqeebi,Dr Zeus,Hamid Ali Naqeebi,3:54
 Cuttputlli,2022,Laapata,"Payal Dev , Dev Negi",Aditya Dev,Rashmi Virag,3:20
 Jahaan Chaar Yaar,2022,What The Luck,Mika Singh,Sanjeev Chaturvedi,Sanjeev Chaturvedi,
-Middle Class Love,2022,Naya Pyaar Naya Ehsaas,"Palak Muchhal , Jubin Nautiyal",,Himesh Reshammiya,5:44
-Middle Class Love,2022,Tuk Tuk,"Himesh Reshammiya, Payal Dev",,Shabbir Ahmed,3:55
-Middle Class Love,2022,Manjha,"Himesh Reshammiya, Raj Barman (Aalaps: Salman Ali )",,Shakeel Azmi,5:17
-Middle Class Love,2022,Apna Karenge (Music: Prasanna Suresh),Spitfire,,Spitfire,1:12
-Middle Class Love,2022,Hypnotize,"Dev Negi , Akasa Singh , Aasa Singh",,Mayur Puri,3:43
-Middle Class Love,2022,Kisko Tha Pata,Vishal Dadlani,,Mayur Puri,3:15
-Middle Class Love,2022,Manjha - Reprise,Aishwarya Pandit,,Shakeel Azmi,4:29
-Middle Class Love,2022,Naya Pyaar Naya Ehsaas - Raj Barman Version,Raj Barman,,Himesh Reshammiya,5:44
-Atithi Bhooto Bhava,2022,Gulmohar,Shahid Mallya,,Tanveer Javed,3:59
-Atithi Bhooto Bhava,2022,Raat Kawari Hai,Benny Dayal,,Mayur Puri,3:26
-Atithi Bhooto Bhava,2022,Udd Raha Hai Dil,"Raghav Chaitanya , Aditi Singh Sharma",,Shakeel Azmi,3:29
-Atithi Bhooto Bhava,2022,Paakhi Hua Re,Arijit Singh,,Priyanka R Bala,5:40
-Atithi Bhooto Bhava,2022,Iss Dil Mein,Ankit Tiwari,,"Kunaal Verma , Priyanka R Bala",3:29
+Middle Class Love,2022,Naya Pyaar Naya Ehsaas,"Palak Muchhal , Jubin Nautiyal","Songs:, Himesh Reshammiya, Score:, Prasad Sashte",Himesh Reshammiya,5:44
+Middle Class Love,2022,Tuk Tuk,"Himesh Reshammiya, Payal Dev","Songs:, Himesh Reshammiya, Score:, Prasad Sashte",Shabbir Ahmed,3:55
+Middle Class Love,2022,Manjha,"Himesh Reshammiya, Raj Barman (Aalaps: Salman Ali )","Songs:, Himesh Reshammiya, Score:, Prasad Sashte",Shakeel Azmi,5:17
+Middle Class Love,2022,Apna Karenge (Music: Prasanna Suresh),Spitfire,"Songs:, Himesh Reshammiya, Score:, Prasad Sashte",Spitfire,1:12
+Middle Class Love,2022,Hypnotize,"Dev Negi , Akasa Singh , Aasa Singh","Songs:, Himesh Reshammiya, Score:, Prasad Sashte",Mayur Puri,3:43
+Middle Class Love,2022,Kisko Tha Pata,Vishal Dadlani,"Songs:, Himesh Reshammiya, Score:, Prasad Sashte",Mayur Puri,3:15
+Middle Class Love,2022,Manjha - Reprise,Aishwarya Pandit,"Songs:, Himesh Reshammiya, Score:, Prasad Sashte",Shakeel Azmi,4:29
+Middle Class Love,2022,Naya Pyaar Naya Ehsaas - Raj Barman Version,Raj Barman,"Songs:, Himesh Reshammiya, Score:, Prasad Sashte",Himesh Reshammiya,5:44
+Atithi Bhooto Bhava,2022,Gulmohar,Shahid Mallya,Prasad S,Tanveer Javed,3:59
+Atithi Bhooto Bhava,2022,Raat Kawari Hai,Benny Dayal,Prasad S,Mayur Puri,3:26
+Atithi Bhooto Bhava,2022,Udd Raha Hai Dil,"Raghav Chaitanya , Aditi Singh Sharma",Prasad S,Shakeel Azmi,3:29
+Atithi Bhooto Bhava,2022,Paakhi Hua Re,Arijit Singh,Prasad S,Priyanka R Bala,5:40
+Atithi Bhooto Bhava,2022,Iss Dil Mein,Ankit Tiwari,Prasad S,"Kunaal Verma , Priyanka R Bala",3:29
 Babli Bouncer,2022,Mad Banke,"Asees Kaur , Romy",Tanishk Bagchi,Shabbir Ahmed,3:06
 Babli Bouncer,2022,Babli Shor Macha Re,Mika Singh,Karan Malhotra,Manaswi Mohata,3:02
 Babli Bouncer,2022,Le Sajna,Altamash Faridi,Tanishk Bagchi,Tanishk Bagchi,2:15
 Babli Bouncer,2022,Mann Mein Halchal,Akanksha Sethi,Karan Malhotra,Manaswi Mohata,2:53
-Plan A Plan B,2022,Talli,"Bann Chakraborty, Sunidhi Chauhan",,Ginny Diwan,03:38
-Plan A Plan B,2022,Keh Do Ke,"Vivek Hariharan, Mali, Bann Chakraborty",,Ankur Tewari,03:45
-Plan A Plan B,2022,Dil Hoya Jogiya,Saurabh Das,,Yug Bhusal,04:38
+Plan A Plan B,2022,Talli,"Bann Chakraborty, Sunidhi Chauhan","Songs:, Bann Chakraborty, Yug Bhusal, Background Score:, Bann Chakraborty",Ginny Diwan,03:38
+Plan A Plan B,2022,Keh Do Ke,"Vivek Hariharan, Mali, Bann Chakraborty","Songs:, Bann Chakraborty, Yug Bhusal, Background Score:, Bann Chakraborty",Ankur Tewari,03:45
+Plan A Plan B,2022,Dil Hoya Jogiya,Saurabh Das,"Songs:, Bann Chakraborty, Yug Bhusal, Background Score:, Bann Chakraborty",Yug Bhusal,04:38
 Maja Ma,2022,Boom Padi,"Shreya Ghoshal , Osman Mir","Siddharth Mahadevan , Souumil Shringarpure",Priya Saraiya,4:06
 Maja Ma,2022,Ae pagli,"Ash King , Prakriti Kakkar",Gourov Dasgupta,Kumaar,2:49
 Maja Ma,2022,Kacchi Doriyaan,"Arijit Singh , Asees Kaur",Anurag Sharma,Anurag Sharma,3:56
@@ -311,21 +311,21 @@ Maja Ma,2022,Kacchi Doriyaan reprise,"Aniruddh Ananta, Harjot Kaur",Anurag Sharm
 Maja Ma,2022,Boom Padi- electronic version,"Yashita Sharma, Lil Sidley","Siddharth Mahadevan, Souumil Shringarpure","Priya Saraiya, Lil Sidley",2:39
 Maja Ma,2022,Songs of Celebration,"Shashaa Tirupati, Osman Mir","Siddharth Mahadevan, Souumil Shringarpure",Priya Saraiya,3:05
 Maja Ma,2022,Buniyaad 2.0,The Yellow Diary,The Yellow Diary,,4:11
-Goodbye,2022,Chann Pardesi,Amit Trivedi,,Swanand Kirkire,4:10
-Goodbye,2022,Jaikal Mahakal,"Amit Trivedi, Suhas Sawant",,Swanand Kirkire,4:03
-Goodbye,2022,Maaye,"Devenderpal Singh, Deedar Kaur",,Swanand Kirkire,4:34
-Goodbye,2022,Kanni Re Kanni,Nakash Aziz,,Swanand Kirkire,5:52
-Goodbye,2022,The Hic Song,"Sharvi Yadav, Rupali Moghe",,"Vikas Bahl , Amit Trivedi",3:31
-Goodbye,2022,Happy Birthday,Abhijeet Shrivastava,,Swanand Kirkire,2:59
-Goodbye,2022,Beautiful,Amit Trivedi,,Swanand Kirkire,2:51
-Goodbye,2022,Jaikal Mahakal (Reprise),Suhas Sawant,,Swanand Kirkire,4:03
-Goodbye,2022,Maaye (Reprise),"Devenderpal Singh, Shreya Ghoshal",,Swanand Kirkire,4:34
-Nazar Andaaz,2022,Lootere Aa Gaye,"Sachet Tandon , Mohammed Danish",,,2:23
-Nazar Andaaz,2022,Kitne Andekhe Rang,Vishal Mishra,,,3:27
-Nazar Andaaz,2022,Aadhi Kahani,Jubin Nautiyal,,,3:30
-Nazar Andaaz,2022,Jadoo,Parampara Tandon,,,3:29
-Nazar Andaaz,2022,Sukoon,Armaan Malik,,,4:21
-Nazar Andaaz,2022,Sukoon (Female Version),Tulsi Kumar,,,4:21
+Goodbye,2022,Chann Pardesi,Amit Trivedi,Amit Trivedi,Swanand Kirkire,4:10
+Goodbye,2022,Jaikal Mahakal,"Amit Trivedi, Suhas Sawant",Amit Trivedi,Swanand Kirkire,4:03
+Goodbye,2022,Maaye,"Devenderpal Singh, Deedar Kaur",Amit Trivedi,Swanand Kirkire,4:34
+Goodbye,2022,Kanni Re Kanni,Nakash Aziz,Amit Trivedi,Swanand Kirkire,5:52
+Goodbye,2022,The Hic Song,"Sharvi Yadav, Rupali Moghe",Amit Trivedi,"Vikas Bahl , Amit Trivedi",3:31
+Goodbye,2022,Happy Birthday,Abhijeet Shrivastava,Amit Trivedi,Swanand Kirkire,2:59
+Goodbye,2022,Beautiful,Amit Trivedi,Amit Trivedi,Swanand Kirkire,2:51
+Goodbye,2022,Jaikal Mahakal (Reprise),Suhas Sawant,Amit Trivedi,Swanand Kirkire,4:03
+Goodbye,2022,Maaye (Reprise),"Devenderpal Singh, Shreya Ghoshal",Amit Trivedi,Swanand Kirkire,4:34
+Nazar Andaaz,2022,Lootere Aa Gaye,"Sachet Tandon , Mohammed Danish",Vishal Mishra,,2:23
+Nazar Andaaz,2022,Kitne Andekhe Rang,Vishal Mishra,Vishal Mishra,,3:27
+Nazar Andaaz,2022,Aadhi Kahani,Jubin Nautiyal,Vishal Mishra,,3:30
+Nazar Andaaz,2022,Jadoo,Parampara Tandon,Vishal Mishra,,3:29
+Nazar Andaaz,2022,Sukoon,Armaan Malik,Vishal Mishra,,4:21
+Nazar Andaaz,2022,Sukoon (Female Version),Tulsi Kumar,Vishal Mishra,,4:21
 Doctor G,2022,Har Jagah Tu,Raj Barman,Sultan Sulemani,Kumaar,2:49
 Doctor G,2022,Dil Dhak Dhak Dhak Karta Hai,"Raj Barman, Sakshi Holkar",Amjad Nadeem Aamir,Amjad Nadeem,3:12
 Doctor G,2022,O Sweetie Sweetie,Ayushmann Khurrana,Amit Trivedi,Raj Shekhar,3:25
@@ -338,10 +338,10 @@ Thank God,2022,Manike,"Yohani , Jubin Nautiyal , Surya Ragunnathan","Tanishk Bag
 Thank God,2022,Haaniya Ve,Jubin Nautiyal,Tanishk Bagchi,Rashmi Virag,3:37
 Thank God,2022,Dil De Diya,Anand Raaj Anand,Rochak Kohli,Rashmi Virag,4:34
 Thank God,2022,Thank God - Title Track,"Arijit Singh , Eklavya",Rochak Kohli,Manoj Muntashir,4:06
-Tara Vs Bilal,2022,Teri Ho Gayi,"Master Saleem, Faridkot",,,3:24
-Tara Vs Bilal,2022,Nichod Dunga,Manan Bhardwaj [ citation needed ],,,2:58
-Tara Vs Bilal,2022,Saiyaan Ji,"Romy, Manan Bhardwaj",,,4:03
-Tara Vs Bilal,2022,Sau Rab Di,"Jubin Nautiyal , Manan Bhardwaj, Purvashi Grover",,,4:02
+Tara Vs Bilal,2022,Teri Ho Gayi,"Master Saleem, Faridkot",Manan Bhardwaj,,3:24
+Tara Vs Bilal,2022,Nichod Dunga,Manan Bhardwaj [ citation needed ],Manan Bhardwaj,,2:58
+Tara Vs Bilal,2022,Saiyaan Ji,"Romy, Manan Bhardwaj",Manan Bhardwaj,,4:03
+Tara Vs Bilal,2022,Sau Rab Di,"Jubin Nautiyal , Manan Bhardwaj, Purvashi Grover",Manan Bhardwaj,,4:02
 Phone Bhoot,2022,Kinna Sona,"Tanishk Bagchi, Zahrah S. Khan",Tanishk Bagchi,Tanishk Bagchi,3:18
 Phone Bhoot,2022,Kaali Teri Gutt,"Romy, Sakshi Holkar",Roy,Kumaar,3:17
 Phone Bhoot,2022,Phone Bhoot Theme,Baba Sehgal,Mikey McCleary,Baba Sehgal,3:07
@@ -351,35 +351,35 @@ Double XL,2022,Taali Taali,"Sohail Sen, Silambarasan , Rukhsar Bandhukia",Sohail
 Double XL,2022,Ki Jaana,"Kavita Seth , Kanishk Seth",Kanishk Seth,"Mudassar Aziz, Baba Bulle Shah",4:41
 Double XL,2022,Tumse Mila Doon,"Sohail Sen, Javed Ali",Sohail Sen,Mudassar Aziz,4:04
 Double XL,2022,Rangeelo Manva,"Sohail Sen, Rekha Bhardwaj , Pratibha Singh Baghel , Shahid Mallya",Sohail Sen,Mudassar Aziz,3:04
-Mili,2022,Tum Bhi Raahi,"A. R. Rahman , Shashaa Tirupati",,,4:15
-Mili,2022,Sun Aye Mili,Vishal Mishra,,,4:27
-Mili,2022,Main Toh Main Hoon,Abhilasha Sinha,,,3:47
-Mili,2022,Jeena Hoga,Vishal Mishra,,,3:41
-Mili,2022,Tum Bhi Raahi (Reprise),Khatija Rahman,,,2:19
-Rocket Gang,2022,Udd Gaya Rocket,"Raftaar, Sharvi Yadav, Arhaan Hussain, Abhijeet Srivastava",,Raftaar,2:50
-Rocket Gang,2022,Duniya Hai Maa Ki Godi Mein,Meghna Mishra,,Kshitij Patwardhan,3:22
-Rocket Gang,2022,Nachoge Toh Bachoge,"Anand Bhaskar, Sharvi Yadav, Talha Siddiqui",,Talha Siddiqui,3:43
-Rocket Gang,2022,Hawaon Mein,"Neha Tawde, Abhijeet Srivastava",,Kshitij Patwardhan,4:10
-Rocket Gang,2022,Trending Apni Yaari,"Shalmali Kholgade , Arun Kamath, Suhas Sawant, Raghav Chaitanya",,Kshijit Patwardhan,3:29
-Rocket Gang,2022,Duniya Hai Maa Ki Godi Mein (dance mix),"Rashi Harmalkar, Arhaan Hussain, Altamash Faridi",,Kshitij Patwardhan,5:23
-Rocket Gang,2022,Har Bacha Hai Rocket,Amit Trivedi,,Kshitij Patwardhan,2:57
-Uunchai,2022,Keti Ko,Nakash Aziz,,,3:50
-Uunchai,2022,Arre Oh Uncle,"Divya Kumar , Devender Pal Singh",,,3:13
-Uunchai,2022,Haan Kar De,Amit Trivedi,,,4:05
-Uunchai,2022,Ladki Pahadi,Abhijeet Srivastava,,,4:35
-Uunchai,2022,Savera,"Javed Ali , Deepali Sathe, Madhubanti Bagchi",,,3:54
-Uunchai,2022,Ladki Pahadi (Bonus Version),Abhijeet Srivastava,,,2:25
-Uunchai,2022,Ladki Pahadi (Mohit Chauhan Version),Mohit Chauhan,,,4:35
+Mili,2022,Tum Bhi Raahi,"A. R. Rahman , Shashaa Tirupati",A. R. Rahman,,4:15
+Mili,2022,Sun Aye Mili,Vishal Mishra,A. R. Rahman,,4:27
+Mili,2022,Main Toh Main Hoon,Abhilasha Sinha,A. R. Rahman,,3:47
+Mili,2022,Jeena Hoga,Vishal Mishra,A. R. Rahman,,3:41
+Mili,2022,Tum Bhi Raahi (Reprise),Khatija Rahman,A. R. Rahman,,2:19
+Rocket Gang,2022,Udd Gaya Rocket,"Raftaar, Sharvi Yadav, Arhaan Hussain, Abhijeet Srivastava",Amit Trivedi,Raftaar,2:50
+Rocket Gang,2022,Duniya Hai Maa Ki Godi Mein,Meghna Mishra,Amit Trivedi,Kshitij Patwardhan,3:22
+Rocket Gang,2022,Nachoge Toh Bachoge,"Anand Bhaskar, Sharvi Yadav, Talha Siddiqui",Amit Trivedi,Talha Siddiqui,3:43
+Rocket Gang,2022,Hawaon Mein,"Neha Tawde, Abhijeet Srivastava",Amit Trivedi,Kshitij Patwardhan,4:10
+Rocket Gang,2022,Trending Apni Yaari,"Shalmali Kholgade , Arun Kamath, Suhas Sawant, Raghav Chaitanya",Amit Trivedi,Kshijit Patwardhan,3:29
+Rocket Gang,2022,Duniya Hai Maa Ki Godi Mein (dance mix),"Rashi Harmalkar, Arhaan Hussain, Altamash Faridi",Amit Trivedi,Kshitij Patwardhan,5:23
+Rocket Gang,2022,Har Bacha Hai Rocket,Amit Trivedi,Amit Trivedi,Kshitij Patwardhan,2:57
+Uunchai,2022,Keti Ko,Nakash Aziz,"Score:, George Joseph, Songs:, Amit Trivedi",,3:50
+Uunchai,2022,Arre Oh Uncle,"Divya Kumar , Devender Pal Singh","Score:, George Joseph, Songs:, Amit Trivedi",,3:13
+Uunchai,2022,Haan Kar De,Amit Trivedi,"Score:, George Joseph, Songs:, Amit Trivedi",,4:05
+Uunchai,2022,Ladki Pahadi,Abhijeet Srivastava,"Score:, George Joseph, Songs:, Amit Trivedi",,4:35
+Uunchai,2022,Savera,"Javed Ali , Deepali Sathe, Madhubanti Bagchi","Score:, George Joseph, Songs:, Amit Trivedi",,3:54
+Uunchai,2022,Ladki Pahadi (Bonus Version),Abhijeet Srivastava,"Score:, George Joseph, Songs:, Amit Trivedi",,2:25
+Uunchai,2022,Ladki Pahadi (Mohit Chauhan Version),Mohit Chauhan,"Score:, George Joseph, Songs:, Amit Trivedi",,4:35
 Mister Mummy,2022,Chupke Chupke,"Rochak Kohli, Armaan Malik , Shilpa Rao",Rochak Kohli,,5:16
 Mister Mummy,2022,Papaji Pet Se,"Amit Gupta , Sneha Khanwalkar",Sneha Khanwalkar,,2:50
 Mister Mummy,2022,Mister Mummy (Title Track),"Amit Gupta, Harjot Kaur , Sneha Khanwalkar",Sneha Khanwalkar,,2:27
 Mister Mummy,2022,Rut Mastani,"Harjot Kaur, Sneha Khanwalkar",Sneha Khanwalkar,,2:23
 Mister Mummy,2022,Uncle Ji,"Jakir Hussen , Jasu Khan , Sneha Khanwalkar",Sneha Khanwalkar,,3:19
 Mister Mummy,2022,Chupke Chupke (Film Version),"Rochak Kohli, Armaan Malik, Shilpa Rao",Rochak Kohli,,4:58
-Bhediya,2022,Thumkeshwari,"Rashmeet Kaur, Ash King , Divya Kumar , Sachin-Jigar",,,2:43
-Bhediya,2022,Apna Bana Le,"Arijit Singh , Sachin-Jigar",,,4:21
-Bhediya,2022,Jungle Mein Kaand,"Vishal Dadlani , Sukhwinder Singh , Siddharth Basrur , Sachin-Jigar",,,2:46
-Bhediya,2022,Baaki Sab Theek,"Sachin–Jigar, Amitabh Bhattacharya",,,3:19
+Bhediya,2022,Thumkeshwari,"Rashmeet Kaur, Ash King , Divya Kumar , Sachin-Jigar",Sachin–Jigar,,2:43
+Bhediya,2022,Apna Bana Le,"Arijit Singh , Sachin-Jigar",Sachin–Jigar,,4:21
+Bhediya,2022,Jungle Mein Kaand,"Vishal Dadlani , Sukhwinder Singh , Siddharth Basrur , Sachin-Jigar",Sachin–Jigar,,2:46
+Bhediya,2022,Baaki Sab Theek,"Sachin–Jigar, Amitabh Bhattacharya",Sachin–Jigar,,3:19
 Qala,2022,Ghodey Pe Sawaar,Sireesha Bhagavatula,Amit Trivedi,Amitabh Bhattacharya,3:14
 Qala,2022,Rubaaiyaan,"Shahid Mallya, Sireesha Bhagavatula",Amit Trivedi,Swanand Kirkire,4:13
 Qala,2022,Shauq,"Swanand Kirkire , Shahid Mallya , Sireesha Bhagavatula",Amit Trivedi,Varun Grover,3:39
@@ -392,16 +392,16 @@ An Action Hero,2022,An Action Hero Theme,Instrumental,Parag Chhabra,Instrumental
 An Action Hero,2022,Aap Jaisa Koi,"Zahrah S Khan, Altamash Faridi",Tanishk Bagchi,"Indeevar , Tanishk Bagchi",2:58
 An Action Hero,2022,Jehda Nasha,"Yohani , IP Singh, Amar Jalal, Harjot Kaur","Tanishk Bagchi , Faridkot , Amar Jalal","Amar Jalal, Balla Jalal",3:42
 An Action Hero,2022,Aap Jaisa Koi (Film Version),"Zahrah S Khan, Yash Narvekar",Tanishk Bagchi,"Indeevar, Tanishk Bagchi",2:56
-Freddy,2022,Kaala Jaadu,"Arijit Singh , Nikhita Gandhi",,,3:32
-Freddy,2022,Tum Jo Milo,Abhijeet Srivastava,,,3:25
-Freddy,2022,Tujhse Pyaar Karta Hoon,Raghav Chaitanya,,,2:34
-Salaam Venky,2022,Jo Tum Saath Ho,Arijit Singh,,Mithoon,5:49
-Salaam Venky,2022,Dhan Te Nan Zindagi,"Mohit Chauhan , Mithoon",,Mithoon,4:18
-Salaam Venky,2022,Yu Tere Hue Hum,"Jubin Nautiyal , Palak Muchhal",,Mithoon,3:59
-Salaam Venky,2022,Anda Bata Paratha,"Benny Dayal , Mithoon, Aditi Singh Sharma",,Sandeep Shrivastava,3:18
-Salaam Venky,2022,Jo Tum Saath Ho (Duet),"Arijit Singh , Shreya Ghoshal",,Mithoon,5:49
-Salaam Venky,2022,Badi Zindagi,Shaan,,Kausar Munir,3:13
-Salaam Venky,2022,Jo Tum Saath Ho (Lullaby),"Shreya Ghoshal , Shambhavi Thakur, Sminit Mhatre",,Mithoon,1:56
+Freddy,2022,Kaala Jaadu,"Arijit Singh , Nikhita Gandhi","Songs:, Pritam, Score:, Clinton Cerejo",,3:32
+Freddy,2022,Tum Jo Milo,Abhijeet Srivastava,"Songs:, Pritam, Score:, Clinton Cerejo",,3:25
+Freddy,2022,Tujhse Pyaar Karta Hoon,Raghav Chaitanya,"Songs:, Pritam, Score:, Clinton Cerejo",,2:34
+Salaam Venky,2022,Jo Tum Saath Ho,Arijit Singh,Mithoon,Mithoon,5:49
+Salaam Venky,2022,Dhan Te Nan Zindagi,"Mohit Chauhan , Mithoon",Mithoon,Mithoon,4:18
+Salaam Venky,2022,Yu Tere Hue Hum,"Jubin Nautiyal , Palak Muchhal",Mithoon,Mithoon,3:59
+Salaam Venky,2022,Anda Bata Paratha,"Benny Dayal , Mithoon, Aditi Singh Sharma",Mithoon,Sandeep Shrivastava,3:18
+Salaam Venky,2022,Jo Tum Saath Ho (Duet),"Arijit Singh , Shreya Ghoshal",Mithoon,Mithoon,5:49
+Salaam Venky,2022,Badi Zindagi,Shaan,Mithoon,Kausar Munir,3:13
+Salaam Venky,2022,Jo Tum Saath Ho (Lullaby),"Shreya Ghoshal , Shambhavi Thakur, Sminit Mhatre",Mithoon,Mithoon,1:56
 Lyca Productions,2022,Enakku Innoru Per Irukku,,G. V. Prakash Kumar,,
 Lyca Productions,2022,Yaman,,,,
 Lyca Productions,2022,D. Imman,,,,
@@ -409,26 +409,26 @@ Lyca Productions,2022,Sam C. S.,,,,
 Lyca Productions,2022,A. R. Rahman,,,,
 Lyca Productions,2022,Panni Kutty,,,,
 Lyca Productions,2022,C Sathya,,,,
-Anbarivu,2022,Arakkiyae,Yuvan Shankar Raja,,Vivek,3:01
-Anbarivu,2022,Ready Steady Go,"Santhosh Narayanan , Chinnaponnu , Srinisha Jayaseelan",,Yaazhi Dragon,3:50
-Anbarivu,2022,Kanavugal,"Benny Dayal , Bamba Bakya, Sam Vishal , Srinisha Jayaseelan, Sridhar Sena, Maanasi. K, Shilvi Sharon",,Yaazhi Dragon,3:25
-Anbarivu,2022,Kalangathey,Bamba Bakya,,Hiphop Tamizha,2:24
-Anbarivu,2022,Thanga Sela,"Kapil Kapilan , Pradeep Kumar",,Thamarai,4:39
-Anbarivu,2022,Kannirendum,Saindhavi,,Thamarai,3:23
-Anbarivu,2022,Anbae Arivu,Deva,,Hiphop Tamizha,1:42
-Idiot,2022,Oru Paarvaizhala,Anand Aravindakshan,,Mani Amudhan,2:34
-D Block,2022,Ice Katti Kuruvi,"Ron Ethan Yohann , Pradeep Kumar",,Gnanakaravel,4:24
-RRR,2022,Dosti,Vedala Hemachandra,,Sirivennela Seetharama Sastry,5:42
-RRR,2022,Naatu Naatu,"Rahul Sipligunj , Kaala Bhairava",,Chandrabose,3:36
-RRR,2022,Janani,M. M. Keeravaani,,M. M. Keeravaani,3:07
-RRR,2022,Komuram Bheemudo,Kaala Bhairava,,Suddala Ashok Teja,4:15
-RRR,2022,Raamam Raaghavam,"Vijay Prakash , Chandana Bala Kalyan, Charu Hariharan",,K. Shiva Dutta,3:52
-RRR,2022,Etthara Jenda,"Vishal Mishra , Prudhvi Chandra, M.M. Keeravaani, Sahithi , Harika Narayan",,Ramajogayya Sastry,4:21
-RRR,2022,Komma Uyyala,Prakruthi Reddy,,Suddhala Ashoka Teja,4:43
-Pakka Commercial,2022,Pakka Commercial Title Song,"Jakes Bejoy, Vedala Hemachandra",,Sirivennela Seetharama Sastry,4:33
-Pakka Commercial,2022,Andala Raasi,"Saicharan Bhaskaruni, Ramya Behara",,Krishna Kanth,4:11
-Pakka Commercial,2022,Adhirindhi Mastaru Mee Posteru,"Sri Krishna , Sahithi Chaganti",,Bhaskarabhatla,4:33
-Pakka Commercial,2022,Lehanga Lo Lady Donu,"Vijay Prakash , M. M. Srilekha",,Krishna Kanth,4:01
+Anbarivu,2022,Arakkiyae,Yuvan Shankar Raja,Hiphop Tamizha,Vivek,3:01
+Anbarivu,2022,Ready Steady Go,"Santhosh Narayanan , Chinnaponnu , Srinisha Jayaseelan",Hiphop Tamizha,Yaazhi Dragon,3:50
+Anbarivu,2022,Kanavugal,"Benny Dayal , Bamba Bakya, Sam Vishal , Srinisha Jayaseelan, Sridhar Sena, Maanasi. K, Shilvi Sharon",Hiphop Tamizha,Yaazhi Dragon,3:25
+Anbarivu,2022,Kalangathey,Bamba Bakya,Hiphop Tamizha,Hiphop Tamizha,2:24
+Anbarivu,2022,Thanga Sela,"Kapil Kapilan , Pradeep Kumar",Hiphop Tamizha,Thamarai,4:39
+Anbarivu,2022,Kannirendum,Saindhavi,Hiphop Tamizha,Thamarai,3:23
+Anbarivu,2022,Anbae Arivu,Deva,Hiphop Tamizha,Hiphop Tamizha,1:42
+Idiot,2022,Oru Paarvaizhala,Anand Aravindakshan,Vikram Selva,Mani Amudhan,2:34
+D Block,2022,Ice Katti Kuruvi,"Ron Ethan Yohann , Pradeep Kumar",Kaushik Krish,Gnanakaravel,4:24
+RRR,2022,Dosti,Vedala Hemachandra,M. M. Keeravani,Sirivennela Seetharama Sastry,5:42
+RRR,2022,Naatu Naatu,"Rahul Sipligunj , Kaala Bhairava",M. M. Keeravani,Chandrabose,3:36
+RRR,2022,Janani,M. M. Keeravaani,M. M. Keeravani,M. M. Keeravaani,3:07
+RRR,2022,Komuram Bheemudo,Kaala Bhairava,M. M. Keeravani,Suddala Ashok Teja,4:15
+RRR,2022,Raamam Raaghavam,"Vijay Prakash , Chandana Bala Kalyan, Charu Hariharan",M. M. Keeravani,K. Shiva Dutta,3:52
+RRR,2022,Etthara Jenda,"Vishal Mishra , Prudhvi Chandra, M.M. Keeravaani, Sahithi , Harika Narayan",M. M. Keeravani,Ramajogayya Sastry,4:21
+RRR,2022,Komma Uyyala,Prakruthi Reddy,M. M. Keeravani,Suddhala Ashoka Teja,4:43
+Pakka Commercial,2022,Pakka Commercial Title Song,"Jakes Bejoy, Vedala Hemachandra",Jakes Bejoy,Sirivennela Seetharama Sastry,4:33
+Pakka Commercial,2022,Andala Raasi,"Saicharan Bhaskaruni, Ramya Behara",Jakes Bejoy,Krishna Kanth,4:11
+Pakka Commercial,2022,Adhirindhi Mastaru Mee Posteru,"Sri Krishna , Sahithi Chaganti",Jakes Bejoy,Bhaskarabhatla,4:33
+Pakka Commercial,2022,Lehanga Lo Lady Donu,"Vijay Prakash , M. M. Srilekha",Jakes Bejoy,Krishna Kanth,4:01
 The Ghost,2022,Vegam,"Kapil Kapilan , Ramya Behara",Bharatt-Saurabh,Krishna Madineni,3:26
 The Ghost,2022,Freedom,Nikhita Gandhi,Bharatt-Saurabh,,3:12
 The Ghost,2022,Dooralaina Teeralaina,"Mark K. Robin, Roll Rida , Anurag Kulkarni",Mark K Robin,"Krishna Madineni, Manojkumar Juloori",3:43
@@ -436,36 +436,36 @@ The Ghost,2022,Urimeytee Meghaley,"Mark K. Robin, Harini Ivaturi",Mark K Robin,,
 The Ghost,2022,Tamahagane Theme,"Bharatt Hans, Saurabh Malhotra",Bharatt-Saurabh,,1:25
 Adithattu,2022,Aanju Valikkada Laisa,Jassie Gift,Nezer Ahamed,Nezer Ahemed Jerson Yesudas Lakshmi Cheriyedath,4:13
 Adithattu,2022,Theerathai,Sreehari K,Sreehari K,Sharfu,3:44
-Jawan,2023,Zinda Banda,"Anirudh Ravichander , Mangli , Shah Rukh Khan",,"Irshad Kamil , Wasim Barelvi",4:24
-Jawan,2023,Chaleya,"Arijit Singh , Shilpa Rao",,Kumaar,3:20
-Jawan,2023,Not Ramaiya Vastavaiya,"Anirudh Ravichander, Vishal Dadlani , Shilpa Rao",,Kumaar,3:23
-Jawan,2023,Aararaari Raaro,Deepthi Suresh,,Irshad Kamil,4:38
-Jawan,2023,Jawan Title Track,"Shah Rukh Khan, Anirudh Ravichander, Raja Kumari",,Raja Kumari,3:08
-Jawan,2023,Faraatta,"Arijit Singh, Jonita Gandhi , Badshah",,Kumaar,3:15
-Jawan,2023,Chaleya (Arabic Version),"Grini, Jamila El Badaoui",,"Kumaar, Mohamed El Maghribi (Arabic)",3:20
+Jawan,2023,Zinda Banda,"Anirudh Ravichander , Mangli , Shah Rukh Khan",Anirudh Ravichander,"Irshad Kamil , Wasim Barelvi",4:24
+Jawan,2023,Chaleya,"Arijit Singh , Shilpa Rao",Anirudh Ravichander,Kumaar,3:20
+Jawan,2023,Not Ramaiya Vastavaiya,"Anirudh Ravichander, Vishal Dadlani , Shilpa Rao",Anirudh Ravichander,Kumaar,3:23
+Jawan,2023,Aararaari Raaro,Deepthi Suresh,Anirudh Ravichander,Irshad Kamil,4:38
+Jawan,2023,Jawan Title Track,"Shah Rukh Khan, Anirudh Ravichander, Raja Kumari",Anirudh Ravichander,Raja Kumari,3:08
+Jawan,2023,Faraatta,"Arijit Singh, Jonita Gandhi , Badshah",Anirudh Ravichander,Kumaar,3:15
+Jawan,2023,Chaleya (Arabic Version),"Grini, Jamila El Badaoui",Anirudh Ravichander,"Kumaar, Mohamed El Maghribi (Arabic)",3:20
 Pathaan,2023,Besharam Rang,"Shilpa Rao , Caralisa Monteiro",Vishal–Shekhar,"Kumaar , Vishal Dadlani ( Spanish )",4:18
 Pathaan,2023,Jhoome Jo Pathaan,"Arijit Singh , Sukriti Kakar",Vishal–Shekhar,Kumaar,3:28
 Pathaan,2023,Pathaan's Theme,"Magdalena Supel, Cassandra Cavalli",Sanchit and Ankit Balhara,Kit Bee,2:37
 Pathaan,2023,Jim's Theme,"Maanya Narang, Riya Duggal",Sanchit and Ankit Balhara,Instrumental,1:11
-Dunki,2023,Lutt Putt Gaya,Arijit Singh,,"Swanand Kirkire , IP Singh",3:42
-Dunki,2023,Nikle The Kabhi Hum Ghar Se,Sonu Nigam,,Javed Akhtar,5:00
-Dunki,2023,O Maahi,Arijit Singh,,Irshad Kamil,3:53
-Dunki,2023,Chal Ve Watna,Javed Ali,,Varun Grover,4:12
-Dunki,2023,Banda,Diljit Dosanjh,,Kumaar,2:48
-Dunki,2023,Main Tera Rasta Dekhunga,"Vishal Mishra , Shreya Ghoshal , Shadaab Faridi , Altamash Faridi",,Amitabh Bhattacharya,4:06
-Dunki,2023,Main Tera Rasta Dekhunga (Film Version),"Shadaab Faridi, Altamash Faridi",,Amitabh Bhattacharya,5:14
-Dunki,2023,Waheguru (Music by: Shekhar Ravjiani ),Ajay Bijli,,Traditional,3:34
-Adipurush,2023,Jai Shri Ram,"Atul Gogavale, Gwen Dias, Shazneen Arethna, Crystal Sequeira, Marianne D'Cruz Aiman, Umesh Joshi, Swapnil Godbole, Janardan Dhatrak, Vivek Naik, Santosh Bote, Devendra Chitnis, Yash Kulkarni, Mangesh Shirke, Anil Bhilare, Gaurav Dandekar, Siddhant Karawde, Rishikesh Patil, Ameya Paranjape, Vidit Patankar, Yashad Ghanekar, Prasad Manjrekar",,,3:32
-Adipurush,2023,Shivoham,Ajay Gogavale,,,3:56
-Adipurush,2023,Tu Hai Sheetal Dhaara,"Sonu Nigam , Shreya Ghoshal",,,3:21
-Adipurush,2023,Huppa Huiya,Sukhwinder Singh,,,3:43
-Adipurush,2023,Ram Siya Ram (Music by Sachet–Parampara),Sachet–Parampara,,,3:50
-The Kerala Story,2023,Pagal Parindey,"Sunidhi Chauhan , Bishakh Jyoti",,Ozil Dalal,2:04
-The Kerala Story,2023,Ambo Ambambo,Athul Narukara,,Viresh Sreevalsa,1:52
-The Kerala Story,2023,Athira Ravil,K. S. Chithra,,Viresh Sreevalsa,2:07
-The Kerala Story,2023,Tu Mila,K. S. Chithra,,Ozil Dalal,2:07
-The Kerala Story,2023,Aakhir Kyun,Bishakh Jyoti,,"Anant, Porshia (Kurdish), Mahalakshmi Iyer",5:01
-The Kerala Story,2023,Aakhir Kyun Unplugged,Bishakh Jyoti,,Anant,5:08
+Dunki,2023,Lutt Putt Gaya,Arijit Singh,"Songs:, Pritam, Score:, Aman Pant","Swanand Kirkire , IP Singh",3:42
+Dunki,2023,Nikle The Kabhi Hum Ghar Se,Sonu Nigam,"Songs:, Pritam, Score:, Aman Pant",Javed Akhtar,5:00
+Dunki,2023,O Maahi,Arijit Singh,"Songs:, Pritam, Score:, Aman Pant",Irshad Kamil,3:53
+Dunki,2023,Chal Ve Watna,Javed Ali,"Songs:, Pritam, Score:, Aman Pant",Varun Grover,4:12
+Dunki,2023,Banda,Diljit Dosanjh,"Songs:, Pritam, Score:, Aman Pant",Kumaar,2:48
+Dunki,2023,Main Tera Rasta Dekhunga,"Vishal Mishra , Shreya Ghoshal , Shadaab Faridi , Altamash Faridi","Songs:, Pritam, Score:, Aman Pant",Amitabh Bhattacharya,4:06
+Dunki,2023,Main Tera Rasta Dekhunga (Film Version),"Shadaab Faridi, Altamash Faridi","Songs:, Pritam, Score:, Aman Pant",Amitabh Bhattacharya,5:14
+Dunki,2023,Waheguru (Music by: Shekhar Ravjiani ),Ajay Bijli,"Songs:, Pritam, Score:, Aman Pant",Traditional,3:34
+Adipurush,2023,Jai Shri Ram,"Atul Gogavale, Gwen Dias, Shazneen Arethna, Crystal Sequeira, Marianne D'Cruz Aiman, Umesh Joshi, Swapnil Godbole, Janardan Dhatrak, Vivek Naik, Santosh Bote, Devendra Chitnis, Yash Kulkarni, Mangesh Shirke, Anil Bhilare, Gaurav Dandekar, Siddhant Karawde, Rishikesh Patil, Ameya Paranjape, Vidit Patankar, Yashad Ghanekar, Prasad Manjrekar","Score:, Sanchit Balhara and Ankit Balhara, Songs:, Ajay–Atul, Sachet–Parampara",,3:32
+Adipurush,2023,Shivoham,Ajay Gogavale,"Score:, Sanchit Balhara and Ankit Balhara, Songs:, Ajay–Atul, Sachet–Parampara",,3:56
+Adipurush,2023,Tu Hai Sheetal Dhaara,"Sonu Nigam , Shreya Ghoshal","Score:, Sanchit Balhara and Ankit Balhara, Songs:, Ajay–Atul, Sachet–Parampara",,3:21
+Adipurush,2023,Huppa Huiya,Sukhwinder Singh,"Score:, Sanchit Balhara and Ankit Balhara, Songs:, Ajay–Atul, Sachet–Parampara",,3:43
+Adipurush,2023,Ram Siya Ram (Music by Sachet–Parampara),Sachet–Parampara,"Score:, Sanchit Balhara and Ankit Balhara, Songs:, Ajay–Atul, Sachet–Parampara",,3:50
+The Kerala Story,2023,Pagal Parindey,"Sunidhi Chauhan , Bishakh Jyoti","Viresh Sreevalsa, Bishakh Jyoti",Ozil Dalal,2:04
+The Kerala Story,2023,Ambo Ambambo,Athul Narukara,"Viresh Sreevalsa, Bishakh Jyoti",Viresh Sreevalsa,1:52
+The Kerala Story,2023,Athira Ravil,K. S. Chithra,"Viresh Sreevalsa, Bishakh Jyoti",Viresh Sreevalsa,2:07
+The Kerala Story,2023,Tu Mila,K. S. Chithra,"Viresh Sreevalsa, Bishakh Jyoti",Ozil Dalal,2:07
+The Kerala Story,2023,Aakhir Kyun,Bishakh Jyoti,"Viresh Sreevalsa, Bishakh Jyoti","Anant, Porshia (Kurdish), Mahalakshmi Iyer",5:01
+The Kerala Story,2023,Aakhir Kyun Unplugged,Bishakh Jyoti,"Viresh Sreevalsa, Bishakh Jyoti",Anant,5:08
 OMG 2,2023,Oonchi Oonchi Waadi,Hansraj Raghuwanshi,Djstrings,"Kabeer Shukla, Hansraj Raghuwanshi, Djstrings",3:58
 OMG 2,2023,Har Har Mahadev,Vikram Montrose,Vikram Montrose,Shekhar Astitwa,3:07
 OMG 2,2023,Ho Tayyar,"Pranaay, Kailash Kher",Pranaay,Ginny Diwan,4:02
@@ -484,20 +484,20 @@ Chhatriwali,2023,Chhatriwali (Title Track),Sunidhi Chauhan,Rohan-Rohan,"Tejas Pr
 Chhatriwali,2023,Main Teri Hi Rahoon,"Akhil Sachdeva, Shirley Setia",Akhil Sachdeva,Akhil Sachdeva,4:26
 Chhatriwali,2023,Special Edition Kudi,"Sunidhi Chauhan, Gandhharv Sachdeva",Sumeet Bellary,Satya Khare,3:12
 Chhatriwali,2023,Toot Hi Gaya,"Himani Kapoor , Durgesh R Rajbhatt",Durgesh R Rajbhatt,Saaveri Verma,4:05
-Gandhi Godse – Ek Yudh,2023,Raghupati Raghav Raja Ram,Various Artists,,Late Lakshmanacharya,3:04
-Gandhi Godse – Ek Yudh,2023,Vaishnav Jan To,Shreya Ghoshal,,Narsinh Mehta,5:54
-Lost,2023,Mon Re - Title Track,KK,,,4:56
-Lost,2023,Roshni,Papon,,,4:39
-Lost,2023,Zara Hatke,Madhubanti Bagchi,,,3:28
-Lost,2023,Nouka Doobi (Male Version),Swanand Kirkire,,,5:07
-Lost,2023,Nouka Doobi (Female Version),Shreya Ghoshal,,,4:59
-Lost,2023,Mere Maula,Raja Hassan,,,5:27
-Shehzada,2023,Munda Sona Hoon Main,"Diljit Dosanjh , Nikhita Gandhi",,Kumaar,3:50
-Shehzada,2023,Chedkhaniyan,"Arijit Singh , Nikhita Gandhi",,"Shloke Lal, IP Singh",3:51
-Shehzada,2023,Mere Sawaal Ka,"Shashwat Singh , Shalmali Kholgade",,Shloke Lal,4:15
-Shehzada,2023,Character Dheela 2.0 (Recreated by Abhijit Vaghani ),"Neeraj Shridhar , Style Bai",,"Amitabh Bhattacharya , Ashish Pandit",2:37
-Shehzada,2023,Shehzada Title Track,Sonu Nigam,,Mayur Puri,3:47
-Shehzada,2023,Mere Sawaal Ka (King Version),King,,Shloke Lal,3:09
+Gandhi Godse – Ek Yudh,2023,Raghupati Raghav Raja Ram,Various Artists,A. R. Rahman,Late Lakshmanacharya,3:04
+Gandhi Godse – Ek Yudh,2023,Vaishnav Jan To,Shreya Ghoshal,A. R. Rahman,Narsinh Mehta,5:54
+Lost,2023,Mon Re - Title Track,KK,Shantanu Moitra,,4:56
+Lost,2023,Roshni,Papon,Shantanu Moitra,,4:39
+Lost,2023,Zara Hatke,Madhubanti Bagchi,Shantanu Moitra,,3:28
+Lost,2023,Nouka Doobi (Male Version),Swanand Kirkire,Shantanu Moitra,,5:07
+Lost,2023,Nouka Doobi (Female Version),Shreya Ghoshal,Shantanu Moitra,,4:59
+Lost,2023,Mere Maula,Raja Hassan,Shantanu Moitra,,5:27
+Shehzada,2023,Munda Sona Hoon Main,"Diljit Dosanjh , Nikhita Gandhi","Songs:, Pritam, Guest Composer:, Abhijit Vaghani, Background Score:, Julius Packiam",Kumaar,3:50
+Shehzada,2023,Chedkhaniyan,"Arijit Singh , Nikhita Gandhi","Songs:, Pritam, Guest Composer:, Abhijit Vaghani, Background Score:, Julius Packiam","Shloke Lal, IP Singh",3:51
+Shehzada,2023,Mere Sawaal Ka,"Shashwat Singh , Shalmali Kholgade","Songs:, Pritam, Guest Composer:, Abhijit Vaghani, Background Score:, Julius Packiam",Shloke Lal,4:15
+Shehzada,2023,Character Dheela 2.0 (Recreated by Abhijit Vaghani ),"Neeraj Shridhar , Style Bai","Songs:, Pritam, Guest Composer:, Abhijit Vaghani, Background Score:, Julius Packiam","Amitabh Bhattacharya , Ashish Pandit",2:37
+Shehzada,2023,Shehzada Title Track,Sonu Nigam,"Songs:, Pritam, Guest Composer:, Abhijit Vaghani, Background Score:, Julius Packiam",Mayur Puri,3:47
+Shehzada,2023,Mere Sawaal Ka (King Version),King,"Songs:, Pritam, Guest Composer:, Abhijit Vaghani, Background Score:, Julius Packiam",Shloke Lal,3:09
 Selfiee,2023,Main Khiladi,"Udit Narayan , Abhijeet Bhattacharya","Anu Malik , Tanishk Bagchi",Maya Govind,3:07
 Selfiee,2023,Kudiyee Ni Teri,"The PropheC , Zahrah S Khan","Tanishk Bagchi , The PropheC",The PropheC Tanishk Bagchi,3:39
 Selfiee,2023,Kudi Chamkeeli,Yo Yo Honey Singh,Yo Yo Honey Singh,Yo Yo Honey Singh,4:07
@@ -511,32 +511,32 @@ Gulmohar,2023,Dilkash,Talat Aziz,Siddhartha Khosla,,4:29
 Gulmohar,2023,Sapno Ki Pakhi,Kavita Seth,"Siddhartha Khosla, Alan Demoss",,4:39
 Gulmohar,2023,Woh Ghar,Utsavi Jha,"Siddhartha Khosla, Alan Demoss",,3:56
 Gulmohar,2023,Hori Mein,Kavita Seth,"Siddhartha Khosla, Alan Demoss",,3:03
-Mrs. Chatterjee vs Norway,2023,Shubho Shubho,Altamash Faridi,,,2:56
-Mrs. Chatterjee vs Norway,2023,Maa Ke Dil Se,"Javed Ali , Dipakshi Kalita",,,3:33
-Mrs. Chatterjee vs Norway,2023,Aami Jaani Re,Madhubanti Bagchi,,,4:04
-Zwigato,2023,Yeh Raat,Sunidhi Chauhan,,"Devanshu, Geet",2:29
+Mrs. Chatterjee vs Norway,2023,Shubho Shubho,Altamash Faridi,"Songs:, Amit Trivedi, Score:, Hitesh Sonik",,2:56
+Mrs. Chatterjee vs Norway,2023,Maa Ke Dil Se,"Javed Ali , Dipakshi Kalita","Songs:, Amit Trivedi, Score:, Hitesh Sonik",,3:33
+Mrs. Chatterjee vs Norway,2023,Aami Jaani Re,Madhubanti Bagchi,"Songs:, Amit Trivedi, Score:, Hitesh Sonik",,4:04
+Zwigato,2023,Yeh Raat,Sunidhi Chauhan,"Score:, Sagar Desai, Songs:, Hitesh Sonik","Devanshu, Geet",2:29
 Am I Next,2023,Makdi Ke Jaale,Shovan Biswas,Tuhin K Biswas,Rahat Kazmi,3:40
 Am I Next,2023,Meri Khata,Rohil Bhatia,"Rohit Bhatia, Adif Altaf",Adif Altaf,4:24
 Am I Next,2023,Savera,Sukhamrit Soin,Sukhamrit-Sachin,Sukhamrit Soin,3:23
 Am I Next,2023,Dil Ronda Hai,Shovan Biswas,Tuhin K Biswas,Rahat Kazmi,3:25
-Chor Nikal Ke Bhaga,2023,Janiye,"Vishal Mishra, Rashmeet Kaur",,Vishal Mishra,3:43
-Bheed,2023,Herail Ba,"Omprakash Yadav, Anurag Saikia",,Dr Sagar,5:12
-Bheed,2023,Chanda Mama,"Romy, Anurag Saikia",,Shakeel Azmi,3:12
-Bholaa,2023,Nazar Lag Jayegi,Javed Ali,,,3:56
-Bholaa,2023,Aadha Main Aadhi Vo,B Praak,,,6:18
-Bholaa,2023,Paan Dukaniya,"Kanika Kapoor , Swaroop Khan",,,3:41
-Bholaa,2023,Dil Hai Bholaa,Amit Mishra,,,4:46
-Bholaa,2023,Aaraaro Aararo,Hariharan,,,4:18
+Chor Nikal Ke Bhaga,2023,Janiye,"Vishal Mishra, Rashmeet Kaur","Score:, Ketan Sodha, Songs:, Vishal Mishra",Vishal Mishra,3:43
+Bheed,2023,Herail Ba,"Omprakash Yadav, Anurag Saikia",Anurag Saikia,Dr Sagar,5:12
+Bheed,2023,Chanda Mama,"Romy, Anurag Saikia",Anurag Saikia,Shakeel Azmi,3:12
+Bholaa,2023,Nazar Lag Jayegi,Javed Ali,Ravi Basrur,,3:56
+Bholaa,2023,Aadha Main Aadhi Vo,B Praak,Ravi Basrur,,6:18
+Bholaa,2023,Paan Dukaniya,"Kanika Kapoor , Swaroop Khan",Ravi Basrur,,3:41
+Bholaa,2023,Dil Hai Bholaa,Amit Mishra,Ravi Basrur,,4:46
+Bholaa,2023,Aaraaro Aararo,Hariharan,Ravi Basrur,,4:18
 Gumraah,2023,Soniye Je,Vishal Mishra,Vishal Mishra,Vishal Mishra,2:40
 Gumraah,2023,Ghar Nahi Jana,"Armaan Malik , Zahrah S Khan, Salma Agha",Tanishk Bagchi,Rashmi Virag,3:41
 Gumraah,2023,Allah De Bande,"Jubin Nautiyal , Aaman Trikha , Mithoon",Mithoon,Mithoon,4:48
 Gumraah,2023,Gumraah (Title Track),"Sachet Tandon , Parampara Thakur",Abhijit Vaghani,Bhrigu Parashar,2:39
-Bad Boy,2023,Tera Hua,"Arijit Singh , Jyotica Tangri",,Sonia Kapoor,4:40
-Bad Boy,2023,Janabe Ali,Himesh Reshammiya,,Himesh Reshammiya,4:03
-Bad Boy,2023,Instaa Vich Story,"Himesh Reshammiya, Vineet Singh, Aditi Singh Sharma , Asees Kaur",,Kumaar,4:29
-Bad Boy,2023,Aalam Na Poocho,"Payal Dev , Raj Barman, Aakritti Mehra",,Shabbir Ahmed,4:47
-Bad Boy,2023,Saajnaa,Asees Kaur,,Shabbir Ahmed,3:36
-Bad Boy,2023,Saajnaa (Reprise),Shaan,,Shabbir Ahmed,5:24
+Bad Boy,2023,Tera Hua,"Arijit Singh , Jyotica Tangri","Songs:, Himesh Reshammiya, Score:, Raju Singh",Sonia Kapoor,4:40
+Bad Boy,2023,Janabe Ali,Himesh Reshammiya,"Songs:, Himesh Reshammiya, Score:, Raju Singh",Himesh Reshammiya,4:03
+Bad Boy,2023,Instaa Vich Story,"Himesh Reshammiya, Vineet Singh, Aditi Singh Sharma , Asees Kaur","Songs:, Himesh Reshammiya, Score:, Raju Singh",Kumaar,4:29
+Bad Boy,2023,Aalam Na Poocho,"Payal Dev , Raj Barman, Aakritti Mehra","Songs:, Himesh Reshammiya, Score:, Raju Singh",Shabbir Ahmed,4:47
+Bad Boy,2023,Saajnaa,Asees Kaur,"Songs:, Himesh Reshammiya, Score:, Raju Singh",Shabbir Ahmed,3:36
+Bad Boy,2023,Saajnaa (Reprise),Shaan,"Songs:, Himesh Reshammiya, Score:, Raju Singh",Shabbir Ahmed,5:24
 U-Turn,2023,Sajna,Raj Barman,Jeet Gannguli,Kumaar,2:40
 U-Turn,2023,Raasta,Asit Tripathi,Arko Pravo Mukherjee,Rashmi Virag,4:12
 U-Turn,2023,Sab Adhura,Sundeep Gosswami,Sundeep Gosswami,Sundeep Gosswami & Kanchhan Srivas,3:30
@@ -547,35 +547,35 @@ Chatrapathi,2023,Bareilly Ke Bazaar,"Sunidhi Chauhan , Dev Negi",Tanishk Bagchi,
 Chatrapathi,2023,Window Taley,"Dev Negi , Jyotica Tangri",Tanishk Bagchi,Shabbir Ahmed,2:54
 Chatrapathi,2023,Gamey Gamey,"Armaan Malik , Zahrah S Khan",Tanishk Bagchi,Mayur Puri,2:58
 Chatrapathi,2023,Shukriya,"Ash King , Palak Muchhal",Tanishk Bagchi,Mayur Puri,3:13
-Music School,2023,Padhte Jao Bachcha,"Priya Mali, Aditya Balaji, Hrithik Jayakish, Padmaja Sreenivasan , Vaimu, Sandeep",,"Dr. Sagar, Raman Raghuvanshi",4:19
-Music School,2023,Teri Nigaahon Mein,"Javed Ali , Shreya Ghoshal",,"Dr. Sagar, Raman Raghuvanshi",3:17
-Music School,2023,Hichkaule,"Karthik , Priya Malli",,"Dr. Sagar, Raman Raghuvanshi",3:41
-Music School,2023,I am from Goa,Srinisha Jayaseelan,,"Dr. Sagar, Shivani Tibrewala",4:14
-Music School,2023,Aa Kar Tu (Christmas Ki Raat),Shaan,,"Dr. Sagar, Raman Raghuvanshi",4:12
-Music School,2023,Only way to the Top,"Rahul Nambiar , Ranjith Govind & Karthik",,"Shivani Tibrewala, Dr. Sagar, Raman Raghuvanshi",4:57
-Music School,2023,IIT to MIT My Song Will Go,"Anitha Karthikeyan , RS Rakthaksh & K Vasudevan",,"Shivani Tibrewala, Dr. Sagar, Raman Raghuvanshi",4:46
-IB71,2023,Vijayi Bhava,Shadaab Faridi,,Abhinav Shekhar,4:11
-Kathal,2023,Radhe Radhe,Rituraj Mohanty,,,2:55
-Kathal,2023,Nikar Chalo Re,Sona Mohapatra,,,3:44
-Kathal,2023,Lalla Lalli,"Sona Mohapatra, Amjad Bagadwa",,,2:58
-Aazam,2023,Allah Ve Maula Ve,Kailash Kher,,,3:19
-8 A.M. Metro,2023,Woh Khuda,Nooran Sisters,,"Shahbaaz Khan, Manoj Juloori",3:13
-8 A.M. Metro,2023,Ghoomey,Jubin Nautiyal,,Manoj Juloori,3:42
-8 A.M. Metro,2023,Phir Se Dil Toota,Vishal Mishra,,Kausar Munir,3:08
-8 A.M. Metro,2023,Hey Fikar,Jonita Gandhi,,Kausar Munir,3:01
-8 A.M. Metro,2023,Ghoomey (R&B Version),R&B,,Manoj Juloori,3:17
-8 A.M. Metro,2023,Woh Khuda (Javed Ali Version),Javed Ali,,"Shahbaaz Khan, Manoj Juloori",3:27
-8 A.M. Metro,2023,Hey Fikar (Suzanne's Version),Suzanne D'Mello,,Kausar Munir,2:55
-Sirf Ek Bandaa Kaafi Hai,2023,Bandaa Title Track,"Vivek Hariharan, Roy , Enkore",,"Sameer , Enkore",2:10
-Sirf Ek Bandaa Kaafi Hai,2023,Sahara Tu Mera,"Asees Kaur , Sangeet-Siddharth",,Garima Obrah,4:01
-Sirf Ek Bandaa Kaafi Hai,2023,Bandeya,Sonu Nigam,,"Garima Obrah, Sangeet Haldipur",4:46
+Music School,2023,Padhte Jao Bachcha,"Priya Mali, Aditya Balaji, Hrithik Jayakish, Padmaja Sreenivasan , Vaimu, Sandeep",Ilaiyaraaja,"Dr. Sagar, Raman Raghuvanshi",4:19
+Music School,2023,Teri Nigaahon Mein,"Javed Ali , Shreya Ghoshal",Ilaiyaraaja,"Dr. Sagar, Raman Raghuvanshi",3:17
+Music School,2023,Hichkaule,"Karthik , Priya Malli",Ilaiyaraaja,"Dr. Sagar, Raman Raghuvanshi",3:41
+Music School,2023,I am from Goa,Srinisha Jayaseelan,Ilaiyaraaja,"Dr. Sagar, Shivani Tibrewala",4:14
+Music School,2023,Aa Kar Tu (Christmas Ki Raat),Shaan,Ilaiyaraaja,"Dr. Sagar, Raman Raghuvanshi",4:12
+Music School,2023,Only way to the Top,"Rahul Nambiar , Ranjith Govind & Karthik",Ilaiyaraaja,"Shivani Tibrewala, Dr. Sagar, Raman Raghuvanshi",4:57
+Music School,2023,IIT to MIT My Song Will Go,"Anitha Karthikeyan , RS Rakthaksh & K Vasudevan",Ilaiyaraaja,"Shivani Tibrewala, Dr. Sagar, Raman Raghuvanshi",4:46
+IB71,2023,Vijayi Bhava,Shadaab Faridi,"Score:, Prashanth R Vihari, Songs:, Vikram Montrose",Abhinav Shekhar,4:11
+Kathal,2023,Radhe Radhe,Rituraj Mohanty,Ram Sampath,,2:55
+Kathal,2023,Nikar Chalo Re,Sona Mohapatra,Ram Sampath,,3:44
+Kathal,2023,Lalla Lalli,"Sona Mohapatra, Amjad Bagadwa",Ram Sampath,,2:58
+Aazam,2023,Allah Ve Maula Ve,Kailash Kher,Natraj Dastidar,,3:19
+8 A.M. Metro,2023,Woh Khuda,Nooran Sisters,Mark K. Robin,"Shahbaaz Khan, Manoj Juloori",3:13
+8 A.M. Metro,2023,Ghoomey,Jubin Nautiyal,Mark K. Robin,Manoj Juloori,3:42
+8 A.M. Metro,2023,Phir Se Dil Toota,Vishal Mishra,Mark K. Robin,Kausar Munir,3:08
+8 A.M. Metro,2023,Hey Fikar,Jonita Gandhi,Mark K. Robin,Kausar Munir,3:01
+8 A.M. Metro,2023,Ghoomey (R&B Version),R&B,Mark K. Robin,Manoj Juloori,3:17
+8 A.M. Metro,2023,Woh Khuda (Javed Ali Version),Javed Ali,Mark K. Robin,"Shahbaaz Khan, Manoj Juloori",3:27
+8 A.M. Metro,2023,Hey Fikar (Suzanne's Version),Suzanne D'Mello,Mark K. Robin,Kausar Munir,2:55
+Sirf Ek Bandaa Kaafi Hai,2023,Bandaa Title Track,"Vivek Hariharan, Roy , Enkore","Sangeet-Siddharth, Roy","Sameer , Enkore",2:10
+Sirf Ek Bandaa Kaafi Hai,2023,Sahara Tu Mera,"Asees Kaur , Sangeet-Siddharth","Sangeet-Siddharth, Roy",Garima Obrah,4:01
+Sirf Ek Bandaa Kaafi Hai,2023,Bandeya,Sonu Nigam,"Sangeet-Siddharth, Roy","Garima Obrah, Sangeet Haldipur",4:46
 Jogira Sara Ra Ra,2023,Babua,"Suvarna Tiwari, Anandi Joshi",Hitesh Modak,Lavraj,3:10
 Jogira Sara Ra Ra,2023,Torture,"Jonita Gandhi , Meet Bros",Meet Bros,Kumaar,3:37
 Jogira Sara Ra Ra,2023,Cocktail,"Nakash Aziz , Nikhita Gandhi",Tanishk Bagchi,Vayu,2:27
-Zara Hatke Zara Bachke,2023,Phir Aur Kya Chahiye,Arijit Singh,,,4:26
-Zara Hatke Zara Bachke,2023,Tere Vaaste,"Varun Jain, Sachin-Jigar , Shadaab Faridi , Altamash Faridi",,,3:09
-Zara Hatke Zara Bachke,2023,Baby Tujhe Paap Lagega,"Himesh Reshammiya , Sachin-Jigar",,,2:53
-Zara Hatke Zara Bachke,2023,Sanjha,"Sachet Tandon , Shilpa Rao , Sachin-Jigar",,,4:57
+Zara Hatke Zara Bachke,2023,Phir Aur Kya Chahiye,Arijit Singh,"Score:, Sandeep Shirodkar, Songs:, Sachin–Jigar",,4:26
+Zara Hatke Zara Bachke,2023,Tere Vaaste,"Varun Jain, Sachin-Jigar , Shadaab Faridi , Altamash Faridi","Score:, Sandeep Shirodkar, Songs:, Sachin–Jigar",,3:09
+Zara Hatke Zara Bachke,2023,Baby Tujhe Paap Lagega,"Himesh Reshammiya , Sachin-Jigar","Score:, Sandeep Shirodkar, Songs:, Sachin–Jigar",,2:53
+Zara Hatke Zara Bachke,2023,Sanjha,"Sachet Tandon , Shilpa Rao , Sachin-Jigar","Score:, Sandeep Shirodkar, Songs:, Sachin–Jigar",,4:57
 Bloody Daddy,2023,Likhna Mitana,Neha Karode,Anuj Garg,Dinesh Pant,3:50
 Bloody Daddy,2023,Real Talk,GD47,Julius Packiam,GD47,2:55
 Bloody Daddy,2023,Issa Vibe,"Badshah , Payal Dev",Badshah,Badshah,2:28
@@ -634,10 +634,10 @@ Shivankit Singh Parihar,2023,Guiding Light,Instrumental,Tushar Mallek,—,2:32
 Shivankit Singh Parihar,2023,Positive Shift,Instrumental,Tushar Mallek,—,1:58
 Shivankit Singh Parihar,2023,Triumph,Instrumental,Tushar Mallek,—,2:05
 Shivankit Singh Parihar,2023,Aspirants Theme (Extended),Instrumental,Tushar Mallek,—,2:53
-Ghoomer,2023,Ghoomer,"Dipakshi Kalita, Altamash Faridi",,Kausar Munir,3:46
-Ghoomer,2023,Dil Dum Chhalla,Varun Jain,,Kausar Munir,3:45
-Ghoomer,2023,Taqdeer Se Taqraa,Mika Singh,,Swanand Kirkire,4:00
-Ghoomer,2023,Purnaviram,"Amit Trivedi , Rupali Moghe",,Swanand Kirkire,4:12
+Ghoomer,2023,Ghoomer,"Dipakshi Kalita, Altamash Faridi",Amit Trivedi,Kausar Munir,3:46
+Ghoomer,2023,Dil Dum Chhalla,Varun Jain,Amit Trivedi,Kausar Munir,3:45
+Ghoomer,2023,Taqdeer Se Taqraa,Mika Singh,Amit Trivedi,Swanand Kirkire,4:00
+Ghoomer,2023,Purnaviram,"Amit Trivedi , Rupali Moghe",Amit Trivedi,Swanand Kirkire,4:12
 Dream Girl 2,2023,Dil Ka Telephone 2.0,"Meet Bros, Jonita Gandhi , Jubin Nautiyal",Meet Bros,Kumaar,5:09
 Dream Girl 2,2023,Naach,Nakash Aziz,Tanishk Bagchi,Shaan Yadav,2:54
 Dream Girl 2,2023,Jamnapaar,"Meet Bros, Neha Kakkar , Maanuni Desai, Samaaira Chandhoke",Meet Bros,"Kumaar, Jonita Gandhi",3:35
@@ -650,25 +650,25 @@ Akelli,2023,Mera Apana Aasma,Romy,Mehul Vyas,Mukund Bhalerao,4:13
 Friday Night Plan,2023,Bahaane,Rahul Pais,Dhruv Visvanath,Siddhant Kaushal,3:01
 Friday Night Plan,2023,Pandora Ka Dabba,Piyush Kapoor,Skrat,Piyush Kapoor,1:59
 Friday Night Plan,2023,Mazey Mein,When Chai Met Toast,When Chai Met Toast,Siddhant Kaushal,2:27
-Friday Night Plan,2023,9 : 00,,,,
-Haddi,2023,Kaun Hai Tu,"Devashri Manohar, Rohan Rohan",,,3:05
-Haddi,2023,Beparda (Alap written by Saad Khan),"Rekha Bhardwaj , Rohan Pradhan, Rohan-Rohan",,,5:31
-Haddi,2023,Bas Aaj Ki Raat,"Wrisha Dutta, Rohan-Rohan",,,2:26
-Haddi,2023,Alibaba,"Varun Likhate, Rohan Gokhale, Rohan-Rohan",,,2:10
-Haddi,2023,Zaalim Ne Maar Dala,"Rohan Pradhan, Rohan-Rohan",,,3:24
-Haddi,2023,Mastani Shama,"Prajakta Shukre , Rohan Pradhan, Rohan-Rohan",,,3:14
-Haddi,2023,Shooter Saiyan,"Ankita Joshi, Rohan-Rohan",,,3:09
-Haddi,2023,Beparda Reprise,"Rekha Bhardwaj , Rohan-Rohan",,,3:00
-Haddi,2023,The Vengeance of Haddi,-,,,2:21
-Haddi,2023,The Soul of Haddi,-,,,2:32
-Haddi,2023,Gale Mein Atki Haddi,-,,,5:24
-Haddi,2023,Punarjanam And Sarvanash,-,,,3:17
-Jaane Jaan,2023,Jaane Jaan - Title Track,Neha Kakkar,,Rajendra Krishan,2:20
-Jaane Jaan,2023,Doriyaan,Arijit Singh,,Priya Saraiya,3:35
-The Great Indian Family,2023,Kanhaiya Twitter Pe Aaja,Nakash Aziz,,,4:45
-The Great Indian Family,2023,Ki Farak Painda Hai,"Dev Negi , Neeti Mohan , Badshah",,,3:02
-The Great Indian Family,2023,Sahibaa,"Darshan Raval , Antara Mitra",,,3:56
-The Great Indian Family,2023,Pukaroon Hari Om,Sonu Nigam,,,3:36
+Friday Night Plan,2023,9 : 00,,"Songs:, Dhruv Vishvanath, Skrat, When Chai Met Toast, Background Score:, Rahul Pais, Nariman Khambata, (The Jamroom)",,
+Haddi,2023,Kaun Hai Tu,"Devashri Manohar, Rohan Rohan",Rohan-Rohan,,3:05
+Haddi,2023,Beparda (Alap written by Saad Khan),"Rekha Bhardwaj , Rohan Pradhan, Rohan-Rohan",Rohan-Rohan,,5:31
+Haddi,2023,Bas Aaj Ki Raat,"Wrisha Dutta, Rohan-Rohan",Rohan-Rohan,,2:26
+Haddi,2023,Alibaba,"Varun Likhate, Rohan Gokhale, Rohan-Rohan",Rohan-Rohan,,2:10
+Haddi,2023,Zaalim Ne Maar Dala,"Rohan Pradhan, Rohan-Rohan",Rohan-Rohan,,3:24
+Haddi,2023,Mastani Shama,"Prajakta Shukre , Rohan Pradhan, Rohan-Rohan",Rohan-Rohan,,3:14
+Haddi,2023,Shooter Saiyan,"Ankita Joshi, Rohan-Rohan",Rohan-Rohan,,3:09
+Haddi,2023,Beparda Reprise,"Rekha Bhardwaj , Rohan-Rohan",Rohan-Rohan,,3:00
+Haddi,2023,The Vengeance of Haddi,-,Rohan-Rohan,,2:21
+Haddi,2023,The Soul of Haddi,-,Rohan-Rohan,,2:32
+Haddi,2023,Gale Mein Atki Haddi,-,Rohan-Rohan,,5:24
+Haddi,2023,Punarjanam And Sarvanash,-,Rohan-Rohan,,3:17
+Jaane Jaan,2023,Jaane Jaan - Title Track,Neha Kakkar,"Songs:, Sachin–Jigar, Score:, Clinton Cerejo",Rajendra Krishan,2:20
+Jaane Jaan,2023,Doriyaan,Arijit Singh,"Songs:, Sachin–Jigar, Score:, Clinton Cerejo",Priya Saraiya,3:35
+The Great Indian Family,2023,Kanhaiya Twitter Pe Aaja,Nakash Aziz,"Songs, :, Pritam, Score:, Kingshuk Chakravarty",,4:45
+The Great Indian Family,2023,Ki Farak Painda Hai,"Dev Negi , Neeti Mohan , Badshah","Songs, :, Pritam, Score:, Kingshuk Chakravarty",,3:02
+The Great Indian Family,2023,Sahibaa,"Darshan Raval , Antara Mitra","Songs, :, Pritam, Score:, Kingshuk Chakravarty",,3:56
+The Great Indian Family,2023,Pukaroon Hari Om,Sonu Nigam,"Songs, :, Pritam, Score:, Kingshuk Chakravarty",,3:36
 Sukhee,2023,Nasha,"Badshah, Chakshu Kotwal, Afsana Khan",Badshah - Hiten,Raja Dilwala,3:33
 Sukhee,2023,Meethi Boliyan,Sachet Tandon,Arko,Rashmi Virag,4:00
 Sukhee,2023,Nasha (Badshah Version),"Badshah, Chakshu Kotwal, Afsana Khan",Badshah - Hiten,Raja Dilwala,3:33
@@ -682,18 +682,18 @@ Fukrey 3,2023,Mashoor,Abhishek Nailwal,Abhishek Nailwal,"Abhishek Nailwal, Mrigh
 Fukrey 3,2023,Sahi Hai,Abhishek Nailwal,Abhishek Nailwal,Abhishek Nailwal,2:31
 Fukrey 3,2023,Macha Re,"Mika Singh , Nakash Aziz",Tanishk Bagchi,Kumaar,2:02
 Fukrey 3,2023,Atrangi Kissa,"Gandhharv Sachdeva, Divya Kumar",Sumeet Bellary,Vipul Vig,2:35
-Tumse Na Ho Payega,2023,Jamoore,Vishal Dadlani,,Kausar Munir,2:33
-Tumse Na Ho Payega,2023,Cheenti Step,Abhishek Nailwal,,Puneet Sharma,2:30
-Tumse Na Ho Payega,2023,Sifar,Papon,,Kausar Munir,4:06
-Tumse Na Ho Payega,2023,Thokron Ka Shukriya,Varun Jain,,Puneet Sharma,3:55
-Dono,2023,Dono,Armaan Malik,,,04:04
-Dono,2023,Aag Lagdi,"Siddharth Mahadevan , Lisa Mishra",,,3:19
-Dono,2023,Khamma Ghani,"Shivam Mahadevan, Shreya Ghoshal",,,2:52
-Dono,2023,Raangla,"Pratibha Singh Baghel , Shankar Mahadevan",,,4:31
-Dono,2023,Mann Mauji,"Javed Ali , Shrinidhi Gatate",,,3:43
-Dono,2023,Khatt Mitthiyaan,Himani Kapoor,,,4:37
-Dono,2023,Lehenga Padd Gaya Mehenga,Romy,,,3:20
-Dono,2023,Dono (Reprise),"Armaan Malik, Shrinidhi Gatate",,,4:04
+Tumse Na Ho Payega,2023,Jamoore,Vishal Dadlani,"Abhishek Arora, Ananya Purkayastha",Kausar Munir,2:33
+Tumse Na Ho Payega,2023,Cheenti Step,Abhishek Nailwal,"Abhishek Arora, Ananya Purkayastha",Puneet Sharma,2:30
+Tumse Na Ho Payega,2023,Sifar,Papon,"Abhishek Arora, Ananya Purkayastha",Kausar Munir,4:06
+Tumse Na Ho Payega,2023,Thokron Ka Shukriya,Varun Jain,"Abhishek Arora, Ananya Purkayastha",Puneet Sharma,3:55
+Dono,2023,Dono,Armaan Malik,"Songs:, Shankar–Ehsaan–Loy, Background Score:, George Joseph",,04:04
+Dono,2023,Aag Lagdi,"Siddharth Mahadevan , Lisa Mishra","Songs:, Shankar–Ehsaan–Loy, Background Score:, George Joseph",,3:19
+Dono,2023,Khamma Ghani,"Shivam Mahadevan, Shreya Ghoshal","Songs:, Shankar–Ehsaan–Loy, Background Score:, George Joseph",,2:52
+Dono,2023,Raangla,"Pratibha Singh Baghel , Shankar Mahadevan","Songs:, Shankar–Ehsaan–Loy, Background Score:, George Joseph",,4:31
+Dono,2023,Mann Mauji,"Javed Ali , Shrinidhi Gatate","Songs:, Shankar–Ehsaan–Loy, Background Score:, George Joseph",,3:43
+Dono,2023,Khatt Mitthiyaan,Himani Kapoor,"Songs:, Shankar–Ehsaan–Loy, Background Score:, George Joseph",,4:37
+Dono,2023,Lehenga Padd Gaya Mehenga,Romy,"Songs:, Shankar–Ehsaan–Loy, Background Score:, George Joseph",,3:20
+Dono,2023,Dono (Reprise),"Armaan Malik, Shrinidhi Gatate","Songs:, Shankar–Ehsaan–Loy, Background Score:, George Joseph",,4:04
 Mission Raniganj,2023,Jalsa 2.0,"Satinder Sartaaj, Prem-Hardeep","Satinder Sartaaj , Prem-Hardeep",Satinder Sartaaj,3:16
 Mission Raniganj,2023,Jeetenge,"Arko , B Praak",Arko,Kumar Vishwas,3:52
 Mission Raniganj,2023,Jeetenge (Reprise),"Arko, Stebin Ben",Arko,Kumar Vishwas,3:52
@@ -706,33 +706,33 @@ Thank You for Coming,2023,Pari Hoon Main (Jazz Version),Devashree Manohar,Aman P
 Thank You for Coming,2023,Chehra 2.0,Hanita Bhambri,Hanita Bhambri,Hanita Bhambri,4:07
 Thank You for Coming,2023,Duniya Farzi,"Vishal Mishra, Nikhita Gandhi, Hansika Pareek",Vishal Mishra,Kumaar,3:30
 Thank You for Coming,2023,Nach Nach,"Aman Pant, Rashmeet Kaur",Aman Pant,Farmaan,3:05
-16 August 1947,2023,Seenikaari,Sean Roldan and Sathyaprakash Dharmar,,Mohan Rajan,4:04
-16 August 1947,2023,Kottikara Payalae,Sean Roldan and Meenakshi Ilayaraja,,NS Ponkumar,4:10
-16 August 1947,2023,Kottunga Da,Ananthu and Manoj Krishna,,Mohan Raja,4:31
-Bumper,2023,Saraname Saraname Saranam Ayyane,K. S. Harisankar,,Karthik Netha,4:01
-Bumper,2023,Kudi Kudi Thoothukudi Kudi,"Kapil Kapilan , Govind Vasantha",,Karthik Netha,3:53
+16 August 1947,2023,Seenikaari,Sean Roldan and Sathyaprakash Dharmar,Sean Roldan,Mohan Rajan,4:04
+16 August 1947,2023,Kottikara Payalae,Sean Roldan and Meenakshi Ilayaraja,Sean Roldan,NS Ponkumar,4:10
+16 August 1947,2023,Kottunga Da,Ananthu and Manoj Krishna,Sean Roldan,Mohan Raja,4:31
+Bumper,2023,Saraname Saraname Saranam Ayyane,K. S. Harisankar,Govind Vasantha,Karthik Netha,4:01
+Bumper,2023,Kudi Kudi Thoothukudi Kudi,"Kapil Kapilan , Govind Vasantha",Govind Vasantha,Karthik Netha,3:53
 Prathyardhi,2023,Edo Nasha Nasha,Mohana Bhogaraju,Bheems Ceciroleo,Suresh Gangula,3:30
 Prathyardhi,2023,Nee Kanulalo,Javed Ali,Prini Siddhant Madhav,Prini Siddhant Madhav,3:43
 Ravanasura,2023,Ravanasura Anthem,"Shanti People, Novlik, Harika Narayan, Harshavardhan Rameshwar",Harshavardhan Rameshwar,Traditional Song,4:06
 Ravanasura,2023,Pyaar Lona Paagal,Ravi Teja,Harshavardhan Rameshwar,Kasarla Shyam,3:35
 Ravanasura,2023,Veyyinokka,Anurag Kulkarni,Harshavardhan Rameshwar,Sirivennela Sitarama Sastry,3:56
 Ravanasura,2023,Dikka Dishum,"Swathi Reddy, Bheems Ceciroleo, Naresh Mamindla",Bheems Ceciroleo,Kasarla Shyam,3:24
-Bhaag Saale,2023,Kootha Ramp,Kaala Bhairava,,Krishna Kanth,4:07
-Bhaag Saale,2023,Thera Padadhemo,Kaala Bhairava,,Maschendra,3:07
-Bhaag Saale,2023,Prema Kosam,Mangli,,Kasarla Shyam,3:29
-Bhaag Saale,2023,Hrudayam Odipoyelaa,Sai Sindhuja,,Sri Valli,3:16
-Bhaag Saale,2023,The Vibe Of Bhaag Saale,Pranav Chaganty,,Pranav Chaganty,3:13
+Bhaag Saale,2023,Kootha Ramp,Kaala Bhairava,Kaala Bhairava,Krishna Kanth,4:07
+Bhaag Saale,2023,Thera Padadhemo,Kaala Bhairava,Kaala Bhairava,Maschendra,3:07
+Bhaag Saale,2023,Prema Kosam,Mangli,Kaala Bhairava,Kasarla Shyam,3:29
+Bhaag Saale,2023,Hrudayam Odipoyelaa,Sai Sindhuja,Kaala Bhairava,Sri Valli,3:16
+Bhaag Saale,2023,The Vibe Of Bhaag Saale,Pranav Chaganty,Kaala Bhairava,Pranav Chaganty,3:13
 2018,2023,Minnal Minnane,Shankar Mahadevan,William Francis,,1:57
 2018,2023,Venmegham,K. S. Harisankar,Nobin Paul,,3:15
 2018,2023,Innithile,"Ezma Nobin, Madhuri Seshadri",Nobin Paul,,3:21
 2018,2023,Uyirayi Maarave,K. S. Harisankar,Nobin Paul,,1:19
 2018,2023,Save Me,"Kashyap Rammohan, Ezra Nobin, Shubhangini",Nobin Paul,,1:38
-Journey of Love 18+,2023,Maarante Pennalle,Yogi Sekar,,Vaisakh Sugunan,3 : 17
-Journey of Love 18+,2023,Kalyana Raavaane,"Muhammad Mubas, Yogi Sekar, Christo Xavier",,Suhail Koya,3 : 15
-Journey of Love 18+,2023,Kaanal Kinaave,Christo Xavier,,Vinayak Sasikumar,4 : 39
-Journey of Love 18+,2023,Thee Veyilil,Gowry Lekshmi,,Vaisakh Sugunan,4 : 15
-Journey of Love 18+,2023,15 : 26,,,,
-Chaaver,2023,Polika Polika,"Govind Vasantha , Baby Jean, Santhosh Varma",,,04:44
-Chaaver,2023,Poomale Pothiyamme,"Pranav C. P., Niranjana Rema",,,05:06
-Chaaver,2023,Chenthamara,"Pranav C. P., Santhosh Varma",,,03:57
-Chaaver,2023,Chenthamara End Credit Version,"Pranav C. P., Santhosh Varma",,,05:43
+Journey of Love 18+,2023,Maarante Pennalle,Yogi Sekar,Christo Xavier,Vaisakh Sugunan,3 : 17
+Journey of Love 18+,2023,Kalyana Raavaane,"Muhammad Mubas, Yogi Sekar, Christo Xavier",Christo Xavier,Suhail Koya,3 : 15
+Journey of Love 18+,2023,Kaanal Kinaave,Christo Xavier,Christo Xavier,Vinayak Sasikumar,4 : 39
+Journey of Love 18+,2023,Thee Veyilil,Gowry Lekshmi,Christo Xavier,Vaisakh Sugunan,4 : 15
+Journey of Love 18+,2023,15 : 26,,Christo Xavier,,
+Chaaver,2023,Polika Polika,"Govind Vasantha , Baby Jean, Santhosh Varma",Justin Varghese,,04:44
+Chaaver,2023,Poomale Pothiyamme,"Pranav C. P., Niranjana Rema",Justin Varghese,,05:06
+Chaaver,2023,Chenthamara,"Pranav C. P., Santhosh Varma",Justin Varghese,,03:57
+Chaaver,2023,Chenthamara End Credit Version,"Pranav C. P., Santhosh Varma",Justin Varghese,,05:43
