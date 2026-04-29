@@ -20,6 +20,20 @@ LANGUAGE_PAGES = [
     "List_of_Tamil_films_of_{year}",
     "List_of_Telugu_films_of_{year}",
     "List_of_Malayalam_films_of_{year}",
+    "List_of_Punjabi_films_of_{year}",
+    "List_of_Kannada_films_of_{year}",
+    "List_of_Marathi_films_of_{year}",
+    "List_of_Gujarati_films_of_{year}",
+    "List_of_Indian_Bengali_films_of_{year}",
+
+    #below I found for some years
+    #"List_of_Bhojpuri_films_of_{year}",
+    #"List_of_Assamese_films_of_{year}",
+    #"List_of_Tulu_films_of_{year}",
+    #
+
+    #In our list:
+    #Punjabi not found for 2026
 ]
 
 
@@ -32,10 +46,12 @@ def fetch_page(url):
         print(f"  Error fetching {url}: {e}")
         return None
 
-
+''' Don't need this function anymore but keeping just in case it comes in use later
 def find_film_link_in_row(row):
+
+    cells=row.find_all(["td", "th"])
     """Return (title, url) of the film linked in this table row, or (None, None)."""
-    for cell in row.find_all(["td", "th"]):
+    for cell in cells[:3]:
         text = cell.get_text(strip=True)
         # Skip day numbers, month names, very short strings, ref cells
         if re.match(r"^\d{1,2}$", text):
@@ -48,7 +64,15 @@ def find_film_link_in_row(row):
         if link and link["href"].startswith("/wiki/") and ":" not in link["href"]:
             return link.get_text(strip=True), BASE_URL + link["href"]
     return None, None
+'''
 
+def page_has_film_category(soup):
+    """Check Wikipedia categories at the bottom of the page for film-related terms."""
+    cat_links = soup.find("div", id="mw-normal-catlinks")
+    if not cat_links:
+        return False
+    cat_text = cat_links.get_text(" ", strip=True).lower()
+    return any(kw in cat_text for kw in ["film", "films", "movie", "cinema"])
 
 def get_films_for_year(year, max_per_language=25):
     films = []
@@ -63,15 +87,42 @@ def get_films_for_year(year, max_per_language=25):
         time.sleep(REQUEST_DELAY)
 
         for table in soup.find_all("table", class_="wikitable"):
-            rows = table.find_all("tr")[1:]
-            for row in rows:
-                title, film_url = find_film_link_in_row(row)
-                if title and film_url and film_url not in seen_urls:
-                    seen_urls.add(film_url)
-                    films.append({"title": title, "url": film_url, "year": year})
-                    if len([f for f in films if f["year"] == year]) >= max_per_language * len(LANGUAGE_PAGES):
+            all_rows = table.find_all("tr")
+            if not all_rows:
+                continue
+
+            # Find the film title column from the header row
+            film_col = None
+            for i, cell in enumerate(all_rows[0].find_all(["th", "td"])):
+                text = cell.get_text(strip=True).lower()
+                if any(kw in text for kw in ["film", "title", "name"]):
+                    film_col = i
+                    break
+
+            for row in all_rows[1:]:
+                cells = row.find_all(["td", "th"])
+                if not cells:
+                    continue
+
+                # Only search the detected film column, or fall back to first 3 cells
+                candidates = [cells[film_col]] if film_col is not None and film_col < len(cells) else cells[:3]
+
+                for cell in candidates:
+                    text = cell.get_text(strip=True)
+                    if re.match(r"^\d{1,2}$", text): continue
+                    if text.lower() in MONTHS: continue
+                    if len(text) < 3: continue
+                    link = cell.find("a", href=True)
+                    if link and link["href"].startswith("/wiki/") and ":" not in link["href"]:
+                        title = link.get_text(strip=True)
+                        film_url = BASE_URL + link["href"]
+                        if film_url not in seen_urls:
+                            seen_urls.add(film_url)
+                            films.append({"title": title, "url": film_url, "year": year})
                         break
 
+                if len([f for f in films if f["year"] == year]) >= max_per_language * len(LANGUAGE_PAGES):
+                    break
     return films
 
 
@@ -84,7 +135,7 @@ def map_headers(headers):
         ):
             col_map["song_name"] = i
         elif "singers" not in col_map and any(
-            x in h_lower for x in ["singer", "vocalist", "performed by", "artist"]
+            x in h_lower for x in ["singer", "vocalist", "performed by", "artist", "singer(s)"]
         ):
             col_map["singers"] = i
         elif "music_director" not in col_map and any(
@@ -92,7 +143,7 @@ def map_headers(headers):
         ):
             col_map["music_director"] = i
         elif "lyricist" not in col_map and any(
-            x in h_lower for x in ["lyric", "word", "written by"]
+            x in h_lower for x in ["lyric", "word", "written by", "lyrics"]
         ):
             col_map["lyricist"] = i
         elif "duration" not in col_map and any(
@@ -115,7 +166,9 @@ def is_song_table(headers_lower):
 
 def is_duration_string(s):
     """Return True if s looks like a total-duration timestamp (e.g. '29:36', '1:02:45')."""
-    return bool(re.match(r"^\d{1,2}:\d{2}(:\d{2})?$", s.strip()))
+    s_compact = s.replace(" ", "")
+    return bool(re.match(r"^\d{1,2}:\d{2}(:\d{2})?$", s_compact.strip()))
+#this was changed to caputre lengths like "9 : 00" which appeared a couple times
 
 
 def get_infobox_music_director(soup):
@@ -174,6 +227,9 @@ def parse_song_table(table, film_title, year, fallback_music_director=""):
         # Skip total / summary rows
         if song_name.lower().startswith("total") or is_duration_string(song_name):
             continue
+#trying to fix bug with total values of soundtrack length being represented as actual sound 
+        if any(kw in song_name.lower() for kw in ["songs:", "background score:", "score:", "music:"]):
+            continue
 
         music_dir = get_cell(cells, "music_director") or fallback_music_director
 
@@ -215,6 +271,13 @@ def find_soundtrack_link(soup):
                             return BASE_URL + link["href"]
                 if sib.name == "p":
                     break
+    #Added this part to attempt to find all hatnotes in a page as some movies were not returning movies
+    for hatnote in soup.find_all("div", class_="hatnote"):
+        text = hatnote.get_text(strip=True).lower()
+        if any(kw in text for kw in ["soundtrack", "music", "songs"]):
+            link = hatnote.find("a", href=True)
+            if link and "/wiki/" in link["href"]:
+                return BASE_URL + link["href"]
     return None
 
 
@@ -223,7 +286,10 @@ def scrape_film_songs(film_title, film_url, year):
     soup = fetch_page(film_url)
     if not soup:
         return []
-
+    
+    if not page_has_film_category(soup):
+        print(f"    (skipping — not a film page)")
+        return []
     fallback_md = get_infobox_music_director(soup)
 
     # Try tables on the film page first
@@ -252,8 +318,8 @@ def scrape_film_songs(film_title, film_url, year):
 
 
 def main():
-    years = [2022, 2023]
-    max_films_per_year = 25  # per language (4 languages = up to 100 films total per year)
+    years = [2026, 2025,2024,2023,2022]
+    max_films_per_year = 10  # for testing
     all_songs = []
 
     for year in years:
