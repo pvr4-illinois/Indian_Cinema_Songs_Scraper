@@ -20,20 +20,6 @@ LANGUAGE_PAGES = [
     "List_of_Tamil_films_of_{year}",
     "List_of_Telugu_films_of_{year}",
     "List_of_Malayalam_films_of_{year}",
-    "List_of_Punjabi_films_of_{year}",
-    "List_of_Kannada_films_of_{year}",
-    "List_of_Marathi_films_of_{year}",
-    "List_of_Gujarati_films_of_{year}",
-    "List_of_Indian_Bengali_films_of_{year}",
-
-    #below I found for some years
-    #"List_of_Bhojpuri_films_of_{year}",
-    #"List_of_Assamese_films_of_{year}",
-    #"List_of_Tulu_films_of_{year}",
-    #
-
-    #In our list:
-    #Punjabi not found for 2026
 ]
 
 
@@ -98,7 +84,7 @@ def map_headers(headers):
         ):
             col_map["song_name"] = i
         elif "singers" not in col_map and any(
-            x in h_lower for x in ["singer", "vocalist", "performed by", "artist", "singer(s)"]
+            x in h_lower for x in ["singer", "vocalist", "performed by", "artist"]
         ):
             col_map["singers"] = i
         elif "music_director" not in col_map and any(
@@ -106,7 +92,7 @@ def map_headers(headers):
         ):
             col_map["music_director"] = i
         elif "lyricist" not in col_map and any(
-            x in h_lower for x in ["lyric", "word", "written by", "lyrics"]
+            x in h_lower for x in ["lyric", "word", "written by"]
         ):
             col_map["lyricist"] = i
         elif "duration" not in col_map and any(
@@ -129,9 +115,7 @@ def is_song_table(headers_lower):
 
 def is_duration_string(s):
     """Return True if s looks like a total-duration timestamp (e.g. '29:36', '1:02:45')."""
-    s_compact = s.replace(" ", "")
-    return bool(re.match(r"^\d{1,2}:\d{2}(:\d{2})?$", s_compact.strip()))
-#this was changed to caputre lengths like "9 : 00" which appeared a couple times
+    return bool(re.match(r"^\d{1,2}:\d{2}(:\d{2})?$", s.strip()))
 
 
 def get_infobox_music_director(soup):
@@ -189,9 +173,6 @@ def parse_song_table(table, film_title, year, fallback_music_director=""):
             continue
         # Skip total / summary rows
         if song_name.lower().startswith("total") or is_duration_string(song_name):
-            continue
-#trying to fix bug with total values of soundtrack length being represented as actual sound 
-        if any(kw in song_name.lower() for kw in ["songs:", "background score:", "score:", "music:"]):
             continue
 
         music_dir = get_cell(cells, "music_director") or fallback_music_director
@@ -271,8 +252,8 @@ def scrape_film_songs(film_title, film_url, year):
 
 
 def main():
-    years = [2026, 2025,2024,2023,2022]
-    max_films_per_year = 10  # for testing
+    years = [2022, 2023]
+    max_films_per_year = 25  # per language (4 languages = up to 100 films total per year)
     all_songs = []
 
     for year in years:
