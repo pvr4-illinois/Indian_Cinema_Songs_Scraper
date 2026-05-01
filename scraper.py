@@ -6,21 +6,14 @@ import time
 
 
 #GLOBAL VARIABLES - YOU CAN DEFINE THIS HOW YOU SEE FIT
-#MIN_YEAR
-#MAX_YEAR
-#MAX_FILMS_PER_YEAR
+MIN_YEAR=2022
+#Year preferably later (>2000) rather than earlier
+MAX_YEAR=2026
+#MAX_YEAR must be greater than MIN_YEAR
 
-BASE_URL = "https://en.wikipedia.org"
-HEADERS = {"User-Agent": "Mozilla/5.0 (CWL207 educational project)"}
-REQUEST_DELAY = 1.1
-
-MONTHS = {
-    "january", "february", "march", "april", "may", "june",
-    "july", "august", "september", "october", "november", "december",
-    "jan", "feb", "mar", "apr", "jun", "jul", "aug", "sep", "oct", "nov", "dec",
-}
-
-# Language sub-pages to scrape for each year
+MAX_FILMS_PER_YEAR_PER_LANGUAGE=1000
+#1000 means scrape all possible films for the language, set to a number between 10-100 if you want a limited number of each language
+# Language sub-pages to scrape for each year, REMOVE HASHTAGS FOR MORE LANGUAGES!
 LANGUAGE_PAGES = [
     "List_of_Hindi_films_of_{year}",
     "List_of_Tamil_films_of_{year}",
@@ -32,15 +25,25 @@ LANGUAGE_PAGES = [
     #"List_of_Indian_Bengali_films_of_{year}",
     #"List_of_Punjabi_films_of_{year}",
 
-    #below I found for some years
+    #Below were available for some years
     #"List_of_Bhojpuri_films_of_{year}",
     #"List_of_Assamese_films_of_{year}",
     #"List_of_Tulu_films_of_{year}",
-    #
-
-    #In our list:
-    #Punjabi not found for 2026
 ]
+
+
+#END OF USERDESIGNED VARS!
+
+BASE_URL = "https://en.wikipedia.org"
+HEADERS = {"User-Agent": "Mozilla/5.0 (CWL207 educational project)"}
+REQUEST_DELAY = 1.1
+
+MONTHS = {
+    "january", "february", "march", "april", "may", "june",
+    "july", "august", "september", "october", "november", "december",
+    "jan", "feb", "mar", "apr", "jun", "jul", "aug", "sep", "oct", "nov", "dec",
+}
+
 
 
 def fetch_page(url):
@@ -303,8 +306,10 @@ def scrape_film_songs(film_title, film_url, year):
 
 
 def main():
-    years = [2023, 2024, 2025, 2026]
-    max_films_per_year = 1000  # for testing
+    years=[]
+    for i in range(MIN_YEAR, MAX_YEAR+1):
+        years.append(i)
+    max_films_per_year = MAX_FILMS_PER_YEAR_PER_LANGUAGE  # for testing
     all_songs = []
 
     for year in years:
