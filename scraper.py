@@ -4,9 +4,15 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import time
 
+
+#GLOBAL VARIABLES - YOU CAN DEFINE THIS HOW YOU SEE FIT
+#MIN_YEAR
+#MAX_YEAR
+#MAX_FILMS_PER_YEAR
+
 BASE_URL = "https://en.wikipedia.org"
 HEADERS = {"User-Agent": "Mozilla/5.0 (CWL207 educational project)"}
-REQUEST_DELAY = 1.5
+REQUEST_DELAY = 1.1
 
 MONTHS = {
     "january", "february", "march", "april", "may", "june",
@@ -20,11 +26,11 @@ LANGUAGE_PAGES = [
     "List_of_Tamil_films_of_{year}",
     "List_of_Telugu_films_of_{year}",
     "List_of_Malayalam_films_of_{year}",
-    "List_of_Punjabi_films_of_{year}",
     "List_of_Kannada_films_of_{year}",
-    "List_of_Marathi_films_of_{year}",
-    "List_of_Gujarati_films_of_{year}",
-    "List_of_Indian_Bengali_films_of_{year}",
+    #"List_of_Marathi_films_of_{year}",
+    #"List_of_Gujarati_films_of_{year}",
+    #"List_of_Indian_Bengali_films_of_{year}",
+    #"List_of_Punjabi_films_of_{year}",
 
     #below I found for some years
     #"List_of_Bhojpuri_films_of_{year}",
@@ -46,12 +52,10 @@ def fetch_page(url):
         print(f"  Error fetching {url}: {e}")
         return None
 
-''' Don't need this function anymore but keeping just in case it comes in use later
-def find_film_link_in_row(row):
 
-    cells=row.find_all(["td", "th"])
+def find_film_link_in_row(row):
     """Return (title, url) of the film linked in this table row, or (None, None)."""
-    for cell in cells[:3]:
+    for cell in row.find_all(["td", "th"]):
         text = cell.get_text(strip=True)
         # Skip day numbers, month names, very short strings, ref cells
         if re.match(r"^\d{1,2}$", text):
@@ -64,15 +68,7 @@ def find_film_link_in_row(row):
         if link and link["href"].startswith("/wiki/") and ":" not in link["href"]:
             return link.get_text(strip=True), BASE_URL + link["href"]
     return None, None
-'''
 
-def page_has_film_category(soup):
-    """Check Wikipedia categories at the bottom of the page for film-related terms."""
-    cat_links = soup.find("div", id="mw-normal-catlinks")
-    if not cat_links:
-        return False
-    cat_text = cat_links.get_text(" ", strip=True).lower()
-    return any(kw in cat_text for kw in ["film", "films", "movie", "cinema"])
 
 def get_films_for_year(year, max_per_language=25):
     films = []
@@ -87,42 +83,15 @@ def get_films_for_year(year, max_per_language=25):
         time.sleep(REQUEST_DELAY)
 
         for table in soup.find_all("table", class_="wikitable"):
-            all_rows = table.find_all("tr")
-            if not all_rows:
-                continue
-
-            # Find the film title column from the header row
-            film_col = None
-            for i, cell in enumerate(all_rows[0].find_all(["th", "td"])):
-                text = cell.get_text(strip=True).lower()
-                if any(kw in text for kw in ["film", "title", "name"]):
-                    film_col = i
-                    break
-
-            for row in all_rows[1:]:
-                cells = row.find_all(["td", "th"])
-                if not cells:
-                    continue
-
-                # Only search the detected film column, or fall back to first 3 cells
-                candidates = [cells[film_col]] if film_col is not None and film_col < len(cells) else cells[:3]
-
-                for cell in candidates:
-                    text = cell.get_text(strip=True)
-                    if re.match(r"^\d{1,2}$", text): continue
-                    if text.lower() in MONTHS: continue
-                    if len(text) < 3: continue
-                    link = cell.find("a", href=True)
-                    if link and link["href"].startswith("/wiki/") and ":" not in link["href"]:
-                        title = link.get_text(strip=True)
-                        film_url = BASE_URL + link["href"]
-                        if film_url not in seen_urls:
-                            seen_urls.add(film_url)
-                            films.append({"title": title, "url": film_url, "year": year})
+            rows = table.find_all("tr")[1:]
+            for row in rows:
+                title, film_url = find_film_link_in_row(row)
+                if title and film_url and film_url not in seen_urls:
+                    seen_urls.add(film_url)
+                    films.append({"title": title, "url": film_url, "year": year})
+                    if len([f for f in films if f["year"] == year]) >= max_per_language * len(LANGUAGE_PAGES):
                         break
 
-                if len([f for f in films if f["year"] == year]) >= max_per_language * len(LANGUAGE_PAGES):
-                    break
     return films
 
 
@@ -152,6 +121,27 @@ def map_headers(headers):
             col_map["duration"] = i
     return col_map
 
+
+def page_has_film_category(soup):
+    cat_links = soup.find("div", id="mw-normal-catlinks")
+    if not cat_links:
+        return True
+    
+    cat_text = cat_links.get_text(" ", strip=True).lower()
+    
+    is_person = "living people" in cat_text or "births" in cat_text#tags associated with people
+    is_film = any(kw in cat_text for kw in [
+        "language films", "indian films", "directed by", "film based on",
+        "films set in", "hindi films", "tamil films", "telugu films",
+        "malayalam films", "kannada films", "marathi films", "punjabi films",
+        "gujarati films", "bengali films"#tags that are going to be associated with films found in the metadata
+    ])
+    
+    # IF its clearly a person and NOT a film we can return it, otherwise we want to be save to prevent false negatives
+    if is_person and not is_film:
+        return False
+    
+    return True
 
 def is_song_table(headers_lower):
     has_title = any(
@@ -249,17 +239,10 @@ def parse_song_table(table, film_title, year, fallback_music_director=""):
 
 
 def find_soundtrack_link(soup):
-    """Return URL of a dedicated soundtrack sub-page if linked via a hatnote."""
+    # Original heading-based search first
     for heading in soup.find_all(["h2", "h3", "h4"]):
-        if any(
-            kw in heading.get_text(strip=True).lower()
-            for kw in ["music", "soundtrack", "songs"]
-        ):
-            anchor = (
-                heading.parent
-                if "mw-heading" in heading.parent.get("class", [])
-                else heading
-            )
+        if any(kw in heading.get_text(strip=True).lower() for kw in ["music", "soundtrack", "songs"]):
+            anchor = heading.parent if "mw-heading" in heading.parent.get("class", []) else heading
             for sib in anchor.find_next_siblings():
                 if "mw-heading" in sib.get("class", []):
                     break
@@ -271,15 +254,16 @@ def find_soundtrack_link(soup):
                             return BASE_URL + link["href"]
                 if sib.name == "p":
                     break
-    #Added this part to attempt to find all hatnotes in a page as some movies were not returning movies
+
+    # scanning all hatnotes instead of what we were doing previously
     for hatnote in soup.find_all("div", class_="hatnote"):
         text = hatnote.get_text(strip=True).lower()
         if any(kw in text for kw in ["soundtrack", "music", "songs"]):
             link = hatnote.find("a", href=True)
             if link and "/wiki/" in link["href"]:
                 return BASE_URL + link["href"]
-    return None
 
+    return None
 
 def scrape_film_songs(film_title, film_url, year):
     time.sleep(REQUEST_DELAY)
@@ -288,8 +272,9 @@ def scrape_film_songs(film_title, film_url, year):
         return []
     
     if not page_has_film_category(soup):
-        print(f"    (skipping — not a film page)")
+        print(f"    (skipping — person page)")#explicitly marking it, the issue beforehand was that we had a lot of director/actor pages being scraped (their discographies would get added as songs)
         return []
+
     fallback_md = get_infobox_music_director(soup)
 
     # Try tables on the film page first
@@ -318,8 +303,8 @@ def scrape_film_songs(film_title, film_url, year):
 
 
 def main():
-    years = [2026, 2025,2024,2023,2022]
-    max_films_per_year = 10  # for testing
+    years = [2023, 2024, 2025, 2026]
+    max_films_per_year = 1000  # for testing
     all_songs = []
 
     for year in years:
