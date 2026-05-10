@@ -7,13 +7,13 @@ import time
 
 #GLOBAL VARIABLES - YOU CAN DEFINE THIS HOW YOU SEE FIT
 MIN_YEAR=2022
-#Year preferably later (>2000) rather than earlier
+#MIN YEAR Year preferably later (>2000) rather than earlier
 MAX_YEAR=2026
 #MAX_YEAR must be greater than MIN_YEAR
 
 MAX_FILMS_PER_YEAR_PER_LANGUAGE=1000
 #1000 means scrape all possible films for the language, set to a number between 10-100 if you want a limited number of each language
-# Language sub-pages to scrape for each year, REMOVE HASHTAGS FOR MORE LANGUAGES!
+
 LANGUAGE_PAGES = [
     "List_of_Hindi_films_of_{year}",
     "List_of_Tamil_films_of_{year}",
@@ -29,10 +29,13 @@ LANGUAGE_PAGES = [
     #"List_of_Bhojpuri_films_of_{year}",
     #"List_of_Assamese_films_of_{year}",
     #"List_of_Tulu_films_of_{year}",
+    # Language sub-pages to scrape for each year, REMOVE HASHTAGS FOR MORE LANGUAGES!
 ]
 
 
 #END OF USERDESIGNED VARS!
+
+#Below is the main scraper code. Preferably do not touch this. 
 
 BASE_URL = "https://en.wikipedia.org"
 HEADERS = {"User-Agent": "Mozilla/5.0 (CWL207 educational project)"}
