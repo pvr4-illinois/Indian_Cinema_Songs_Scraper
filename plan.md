@@ -1,15 +1,10 @@
 # Indian Cinema Songs Scraper
 
 ## Project Goal
-Scrape a list of songs for each Indian/South Asian film from Wikipedia and save the data in CSV format.
+Scrape a list of songs for each Indian film from Wikipedia and save the data in CSV format.
 
 ## Our Specific Task
 WIKIPEDIA: Scrape list of songs for each film and output in CSV format.
-
-## Submission
-- The project will be submitted as a GitHub repository link
-- Repository: https://github.com/pvr4-illinois/Indian_Cinema_Songs_Scraper
-- Make sure all code and output CSV files are pushed to GitHub before submission
 
 ## Approach
 1. Get a list of Indian films from Wikipedia
