@@ -45,7 +45,7 @@ MONTHS = {
 }
 
 
-
+# Visits a specific webpage and translates its raw html into an organized searchable format for data extraction
 def fetch_page(url):
     try:
         resp = requests.get(url, headers=HEADERS, timeout=15)
@@ -55,7 +55,7 @@ def fetch_page(url):
         print(f"  Error fetching {url}: {e}")
         return None
 
-
+# Extracts a film's title and Wikipedia from a table row, skipping irrelenvant data.
 def find_film_link_in_row(row):
     """Return (title, url) of the film linked in this table row, or (None, None)."""
     for cell in row.find_all(["td", "th"]):
@@ -72,7 +72,7 @@ def find_film_link_in_row(row):
             return link.get_text(strip=True), BASE_URL + link["href"]
     return None, None
 
-
+# Builds a list of films from Wikipedia for a specific year
 def get_films_for_year(year, max_per_language=25):
     films = []
     seen_urls = set()
@@ -97,7 +97,7 @@ def get_films_for_year(year, max_per_language=25):
 
     return films
 
-
+# Identifies which columns contain specific song data.
 def map_headers(headers):
     col_map = {}
     for i, h in enumerate(headers):
