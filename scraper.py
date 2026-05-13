@@ -6,7 +6,7 @@ import time
 
 
 #GLOBAL VARIABLES - YOU CAN DEFINE THIS HOW YOU SEE FIT
-MIN_YEAR=2022
+MIN_YEAR=2000
 #MIN YEAR Year preferably later (>2000) rather than earlier
 MAX_YEAR=2026
 #MAX_YEAR must be greater than MIN_YEAR
@@ -16,10 +16,10 @@ MAX_FILMS_PER_YEAR_PER_LANGUAGE=1000
 
 LANGUAGE_PAGES = [
     "List_of_Hindi_films_of_{year}",
-    "List_of_Tamil_films_of_{year}",
-    "List_of_Telugu_films_of_{year}",
-    "List_of_Malayalam_films_of_{year}",
-    "List_of_Kannada_films_of_{year}",
+    #"List_of_Tamil_films_of_{year}",
+    #"List_of_Telugu_films_of_{year}",
+    #"List_of_Malayalam_films_of_{year}",
+    #"List_of_Kannada_films_of_{year}",
     #"List_of_Marathi_films_of_{year}",
     #"List_of_Gujarati_films_of_{year}",
     #"List_of_Indian_Bengali_films_of_{year}",
@@ -342,9 +342,9 @@ def main():
                 "duration",
             ]
         ]
-        df.to_csv("songs.csv", index=False, encoding="utf-8-sig")
+        df.to_csv("hindisongs.csv", index=False, encoding="utf-8-sig")
         print(
-            f"\nSaved {len(all_songs)} songs from {df['film_name'].nunique()} films to songs.csv"
+            f"\nSaved {len(all_songs)} songs from {df['film_name'].nunique()} films to hindisongs.csv"
         )
     else:
         print("\nNo songs data found.")
